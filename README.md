@@ -24,7 +24,25 @@ https://github.com/punkyc/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av86918335
 
-### OpenCV 01
+### OpenCV for RISC-V 第一课-20200205-实习生郑志文
+
+报告题目：OpenCV for RISC-V 第一课：OpenCV 介绍、国内团队介绍、编译及运行，CMake系统介绍
+
+报告时间：20200205
+
+报告人：郑志文
+
+隶属项目：PLCT实验室OpenCV for RISC-V
+
+内容简介：涉及OpenCV 介绍、国内团队介绍、编译及运行，CMake系统介绍
+
+幻灯片或资料链接：
+
+https://github.com/punkyc/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://github.com/isrc-cas/opencv-riscv
 
 ### MLIR 01: MLIR & python binding简介-20200205-研究生张洪滨
 
