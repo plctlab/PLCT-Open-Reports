@@ -38,7 +38,7 @@ https://www.bilibili.com/video/av86918335
 
 幻灯片或资料链接：
 
-https://github.com/punkyc/PLCT-Open-Reports
+https://github.com/zhengzhiwen123/PLCT-Open-Reports
 
 视频或专栏文章链接：
 
