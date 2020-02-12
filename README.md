@@ -88,6 +88,32 @@ TBD
 
 报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/)
 
+### LLVM后端简介-20200212-实习生陈影
+
+报告题目：LLVM后端简介
+
+报告时间：20200212
+
+报告人：陈影
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：LLVM工具链的构建、LLVM后端简介、TableGen等
+
+幻灯片或资料链接：
+
+http://llvm.org/docs/CodeGenerator.html
+
+http://llvm.org/docs/WritingAnLLVMBackend.html
+
+http://llvm.org/docs/TableGen/index.html
+
+https://zhuanlan.zhihu.com/llvm-clang
+
+视频或专栏文章链接（如果有的话）：
+
+TODO B站链接 / 知乎链接 / 腾讯视频链接
+
 （模版，PR时请复制粘贴一份到上面）
 
 （模版内容开始）
