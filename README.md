@@ -154,6 +154,25 @@ https://www.bilibili.com/video/av88544146
 
 https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf
 
+### V8解释器字节码代码浅析-20200213-实习生张江涛
+
+报告题目：V8解释器字节码代码浅析
+
+报告时间：20200213
+
+报告人：张江涛
+
+隶属项目：V8 for RISC-V
+
+内容简介：V8字节码源码解析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av88702574
 
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
