@@ -118,6 +118,26 @@ TODO B站链接 / 知乎链接 / 腾讯视频链接
 
 （模版内容开始）
 
+### OpenCV for RISC-V 第二课-20200205-实习生郑志文
+
+报告题目：OpenCV for RISC-V 第二课：RISC-V目标平台介绍
+
+报告时间：20200212
+
+报告人：郑志文
+
+隶属项目：PLCT实验室OpenCV for RISC-V
+
+内容简介：介绍 Spike 和 RISCV-QEMU，介绍，安装，使用
+
+幻灯片或资料链接：
+
+https://github.com/zhengzhiwen123/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av88544146
+
 ### 编译器入门-20200213-实习生王天然 
 
 报告题目：编译器入门
