@@ -118,7 +118,7 @@ TODO B站链接 / 知乎链接 / 腾讯视频链接
 
 （模版内容开始）
 
-### OpenCV for RISC-V 第二课-20200205-实习生郑志文
+### OpenCV for RISC-V 第二课-20200212-实习生郑志文
 
 报告题目：OpenCV for RISC-V 第二课：RISC-V目标平台介绍
 
