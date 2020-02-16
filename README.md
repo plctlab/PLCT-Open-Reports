@@ -216,10 +216,5 @@ TODO 致谢内容应当放在幻灯片中。
 https://github.com/isrc-cas/PLCT-Open-Reports
 
 视频或专栏文章链接：
+https://www.bilibili.com/video/av88703649?from=search&seid=1076642213776581815
 
-重庆理工大学 电脑组装与维护技术课件 第五讲 
-https://baike.baidu.com/item/JVM/2902369?fr=aladdin
-https://blog.csdn.net/weixin_43538934/article/details/86707053
-https://blog.csdn.net/weixin_44797327/article/details/103243477
-https://blog.csdn.net/weixin_43876206/article/details/91410397
-https://blog.csdn.net/TZ845195485/article/details/93238857
