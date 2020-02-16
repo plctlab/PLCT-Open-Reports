@@ -199,3 +199,27 @@ TODO B站链接 / 知乎链接 / 腾讯视频链接
 TODO 致谢内容应当放在幻灯片中。
 
 （模版内容结束）
+### 虚拟机简介-20200213-实习生王英恺
+
+报告题目：虚拟机简介
+
+报告时间：20200213
+
+报告人：王英恺
+
+隶属项目：V8 for RISC-V
+
+内容简介：虚拟机简介
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+重庆理工大学 电脑组装与维护技术课件 第五讲 
+https://baike.baidu.com/item/JVM/2902369?fr=aladdin
+https://blog.csdn.net/weixin_43538934/article/details/86707053
+https://blog.csdn.net/weixin_44797327/article/details/103243477
+https://blog.csdn.net/weixin_43876206/article/details/91410397
+https://blog.csdn.net/TZ845195485/article/details/93238857
