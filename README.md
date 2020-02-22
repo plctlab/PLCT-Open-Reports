@@ -239,3 +239,22 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av88703649
 
+### OpenCV for RISC-V 第三课-20200219-实习生郑志文
+
+报告题目：OpenCV for RISC-V 第三课：OpenCV编译相关文件讲解
+
+报告时间：20200219
+
+报告人：郑志文
+
+隶属项目：PLCT实验室OpenCV for RISC-V
+
+内容简介：OpenCV编译相关文件讲解
+
+幻灯片或资料链接：
+
+https://github.com/zhengzhiwen123/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av90145856
