@@ -278,3 +278,22 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/av90145856
+
+### OpenCV for RISC-V 第四课-20200226-实习生郑志文
+
+报告题目：OpenCV for RISC-V 第四课：RISC-V编译工具链GCC介绍
+报告时间：20200226
+
+报告人：郑志文
+
+隶属项目：PLCT实验室OpenCV for RISC-V
+
+内容简介：RISC-V编译工具链GCC种类及参数的介绍
+
+幻灯片或资料链接：
+
+https://github.com/zhengzhiwen123/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av91871102
