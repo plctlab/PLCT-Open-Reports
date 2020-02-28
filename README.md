@@ -44,7 +44,7 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 
 https://github.com/isrc-cas/opencv-riscv
 
-### MLIR 01: MLIR & python binding简介-20200205-研究生张洪滨
+### MLIR & python binding简介-20200205-研究生张洪滨
 
 报告题目：MLIR & python binding简介
 
@@ -58,7 +58,7 @@ https://github.com/isrc-cas/opencv-riscv
 
 幻灯片或资料链接：
 
-TBD
+https://www.bilibili.com/video/av91877563
 
 视频或专栏文章链接：
 
@@ -297,3 +297,49 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/av91871102
+
+### MLIR Toy Tutorial 概述-20200226-研究生张洪滨
+
+报告题目：MLIR Toy Tutorial 概述
+
+报告时间：2020年02月26日
+
+报告人：张洪滨
+
+隶属项目：Google Summer of Code 2020
+
+内容简介：基于一个Toy语言实例，介绍从源语言到生成LLVM IR的MLIR编译流程。
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/av91878526
+
+视频或专栏文章链接：
+
+MLIR ODS 框架的使用示例 -- 自定义Operation
+
+https://zhuanlan.zhihu.com/p/105576276
+
+MLIR 表达式变型
+
+https://zhuanlan.zhihu.com/p/105905654
+
+MLIR 实现泛化的表达式变型
+
+https://zhuanlan.zhihu.com/p/106472878
+
+MLIR 表达式优化 -- 部分Lowering
+
+https://zhuanlan.zhihu.com/p/107137298
+
+MLIR 表达式Lowering到LLVM IR
+
+https://zhuanlan.zhihu.com/p/108386819
+
+MLIR 向源语言添加struct类型
+
+https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
+
+版权、资料来源及致谢备注：
+
+报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/docs/Tutorials/Toy/)
