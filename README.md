@@ -214,6 +214,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av90145259
 
+### 添加mcpu=C910和RISCV后端介绍 第三课-20200226-实习生王鹏
+
+报告题目：添加mcpu=C910和RISCV后端介绍
+
+报告时间：20200226
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：添加mcpu=C910和RISCV后端介绍（2）
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av91874783
+
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
 报告题目：TODO
