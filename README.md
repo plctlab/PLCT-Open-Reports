@@ -234,6 +234,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av91874783
 
+### march=c910和论文分享 第四课-20200304-实习生王鹏
+
+报告题目：march=c910和论文分享
+
+报告时间：20200304
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：添加march=c910和论文分享
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av93642478
+
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
 报告题目：TODO
