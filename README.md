@@ -314,6 +314,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1YA411b78K
 
+### rvv-llvm学习1 第七课-20200422-实习生王鹏
+
+报告题目：rvv-llvm学习1
+
+报告时间：20200422
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：rvv-llvm学习1
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Df4y1S7aS
+
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
 报告题目：TODO
