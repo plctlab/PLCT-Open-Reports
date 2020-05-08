@@ -477,3 +477,18 @@ https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
 幻灯片或资料链接：
 
 https://github.com/chenjy9581/PLCT-Open-Reports
+
+### 20200506-quickjs翻译到riscv平台的尝试-实习生陆旭凡
+报告题目：将quickjs翻译到riscv平台可以执行的文件
+
+报告时间：20200506
+
+报告人： 陆旭凡
+
+隶属项目： PLCT实验室quickjs项目
+
+内容简介： 使用riscv交叉编译器将quickjs的源码编译到riscv平台可执行的二进制文件，并运行出benchmark结果
+
+幻灯片或资料链接：
+
+https://github.com/chenjy9581/PLCT-Open-Reports
