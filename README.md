@@ -477,3 +477,100 @@ https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
 幻灯片或资料链接：
 
 https://github.com/chenjy9581/PLCT-Open-Reports
+
+
+### FPGA调研-20200212-张爱珩
+
+报告题目：关于在FPGA上跑通RISC-V的调研
+
+报告时间：20200212
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室FPGA开发
+
+内容简介：在FPGA上实现RISC-V所需硬件资源及开发工作
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
+
+### 实现FPGA的准备工作-20200219-张爱珩
+
+报告题目：准备FPGA开发的环境工作总结
+
+报告时间：20200219
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室FPGA开发
+
+内容简介：在FPGA上实现RISC-V所需环境的准备工作
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
+
+### 调研IDEs-20200311-张爱珩
+
+报告题目：基于RISC-V的IDEs的调研
+
+报告时间：20200311
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室IDE开发
+
+内容简介：四种支持RISC-V架构的IDE调研
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
+
+### 安装 GNU MCU Eclipse-20200416-张爱珩
+
+报告题目：GNU MCU Eclipse 及插件的安装和配置
+
+报告时间：20200416
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室IDE开发
+
+内容简介：开发基于RISC-V架构的IDE所需环境的准备工作
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
+
+### 初试编写Eclipse插件-20200416-张爱珩
+
+报告题目：编写、导出及安装Eclipse插件
+
+报告时间：20200429
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室IDE开发
+
+内容简介：开发一个Eclipse插件并投入使用的基本流程
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
+
+### 20200506-quickjs翻译到riscv平台的尝试-实习生陆旭凡
+报告题目：将quickjs翻译到riscv平台可以执行的文件
+
+报告时间：20200506
+
+报告人： 陆旭凡
+
+隶属项目： PLCT实验室quickjs项目
+
+内容简介： 使用riscv交叉编译器将quickjs的源码编译到riscv平台可执行的二进制文件，并运行出benchmark结果
+
+幻灯片或资料链接：
+
+https://github.com/chenjy9581/PLCT-Open-Reports
+
