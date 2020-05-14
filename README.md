@@ -588,3 +588,19 @@ https://github.com/chenjy9581/PLCT-Open-Reports
 幻灯片或资料链接：
 
 https://github.com/chenjy9581/PLCT-Open-Reports
+
+### Plugins code analysis-20200513-张爱珩
+
+报告题目：阅读 CDT plugins 插件代码
+
+报告时间：20200513
+
+报告人：张爱珩
+
+隶属项目：PLCT实验室IDE开发
+
+内容简介：Eclipse CDT插件（gcc交叉编译工具链的实现）代码阅读分析
+
+幻灯片或资料链接：
+
+https://github.com/Helen-zah/PLCT-Open-Reports
