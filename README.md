@@ -334,6 +334,46 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1Df4y1S7aS
 
+### LLVM测试框架、后端代码实例 第八课-20200430-实习生王鹏
+
+报告题目：LLVM测试框架、后端代码实例
+
+报告时间：20200430
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：LLVM测试框架、后端代码实例
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV17f4y1m7By
+
+### clang和rvv benchmark 第九课-20200513-实习生王鹏
+
+报告题目：clang和rvv benchmark
+
+报告时间：20200513
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：clang和rvv benchmark
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV13z4y1d7zK
+
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
 报告题目：TODO
