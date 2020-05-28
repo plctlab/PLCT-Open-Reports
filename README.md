@@ -644,3 +644,19 @@ https://github.com/chenjy9581/PLCT-Open-Reports
 幻灯片或资料链接：
 
 https://github.com/Helen-zah/PLCT-Open-Reports
+
+
+### 20200527--V8指令选择中的优化-陆亚涵
+报告题目：V8指令选择中的优化
+
+报告时间：20200527
+
+报告人： 陆亚涵
+
+隶属项目： PLCT实验室V8项目
+
+内容简介： V8指令选择中的优化
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
