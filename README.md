@@ -660,3 +660,23 @@ https://github.com/Helen-zah/PLCT-Open-Reports
 幻灯片或资料链接：
 
 https://github.com/isrc-cas/PLCT-Open-Reports
+
+### Dive into V8 Torque-20200527-杨文章
+
+报告题目：Dive into v8 torque
+
+报告时间：20200527
+
+报告人：杨文章
+
+隶属项目：PLCT实验室v8项目
+
+内容简介：v8项目中torque语言的编译器源码分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1JK411s7Pv
