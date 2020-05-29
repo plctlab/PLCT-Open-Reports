@@ -645,7 +645,6 @@ https://github.com/chenjy9581/PLCT-Open-Reports
 
 https://github.com/Helen-zah/PLCT-Open-Reports
 
-
 ### 20200527--V8指令选择中的优化-陆亚涵
 报告题目：V8指令选择中的优化
 
@@ -680,3 +679,22 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1JK411s7Pv
+
+### 20200527--V8移植简介-邹小芳
+报告题目：V8移植简介
+
+报告时间：20200527
+
+报告人： 邹小芳
+
+隶属项目： PLCT实验室V8项目
+
+内容简介： V8移植简介
+
+幻灯片或资料链接：
+
+https://github.com/amyzxf/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV11K4y1t76G
