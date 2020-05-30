@@ -314,7 +314,7 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1YA411b78K
 
-### rvv-llvm学习1 第七课-20200422-实习生王鹏
+### rvv-llvm学习1 第八课-20200422-实习生王鹏
 
 报告题目：rvv-llvm学习1
 
@@ -334,7 +334,7 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1Df4y1S7aS
 
-### LLVM测试框架、后端代码实例 第八课-20200430-实习生王鹏
+### LLVM测试框架、后端代码实例 第九课-20200430-实习生王鹏
 
 报告题目：LLVM测试框架、后端代码实例
 
@@ -354,7 +354,7 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV17f4y1m7By
 
-### clang和rvv benchmark 第九课-20200513-实习生王鹏
+### clang和rvv benchmark 第十课-20200513-实习生王鹏
 
 报告题目：clang和rvv benchmark
 
@@ -373,6 +373,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV13z4y1d7zK
+
+### RISC-V rvv v0.9 v0.8 草案对比 第十一课-20200527-实习生王鹏
+
+报告题目：RISC-V rvv v0.9 v0.8 草案对比
+
+报告时间：20200527
+
+报告人：王鹏
+
+隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
+
+内容简介：RISC-V rvv v0.9 v0.8 草案对比
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/av413293037/
 
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
