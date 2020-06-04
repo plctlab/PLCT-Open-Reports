@@ -718,3 +718,26 @@ https://github.com/amyzxf/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV11K4y1t76G
+
+### 使用OpenROAD构建蜂鸟E203处理器核GDS--20200604--张洪滨
+
+报告题目：使用OpenROAD构建蜂鸟E203处理器核GDS
+
+报告时间：20200604
+
+报告人：张洪滨
+
+隶属项目：国科大高级计算机系统结构课程设计
+
+内容简介：完成蜂鸟E203处理器核从RTL代码到GDS二进制文件的全流程设计
+
+幻灯片或链接资料：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+知乎文章：https://zhuanlan.zhihu.com/p/141713099
+
+B站视频：https://www.bilibili.com/video/BV17C4y1a7Pv
+
