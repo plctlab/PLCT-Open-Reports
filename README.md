@@ -698,9 +698,6 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 视频或专栏文章链接：
 
-<<<<<<< HEAD
-https://www.bilibili.com/video/BV1JK411s7Pv
-=======
 https://www.bilibili.com/video/BV1JK411s7Pv
 
 ### 20200527--V8移植简介-邹小芳
@@ -744,4 +741,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 B站视频：https://www.bilibili.com/video/BV17C4y1a7Pv
 
->>>>>>> upstream/master
+
+### v8中snapshot的代码分析-20200610-杨文章
+
+报告题目：v8中snapshot的代码分析
+
+报告时间：20200610
+
+报告人：杨文章
+
+隶属项目：PLCT实验室v8项目
+
+内容简介：v8项目中mksnapshot的机制分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1UV411r7Nq
