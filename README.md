@@ -782,3 +782,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1QT4y1J7SJ
+
+### 基于树莓派开发I2C裸机驱动-20200617-汪辰
+
+报告题目：基于树莓派开发I2C裸机驱动
+
+报告时间：20200617
+
+报告人：汪辰
+
+隶属项目/团队：PLCT江浙沪皖小队
+
+内容简介：I2C 总线简介以及介绍如何基于基于树莓派开发 I2C 的裸机驱动。
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV16p4y1D77b
