@@ -802,3 +802,24 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV16p4y1D77b
+
+
+### Spike-fesvr及外部设备实现分析-20200624-王萌
+
+报告题目：Spike-fesvr及外部设备实现分析
+
+报告时间：20200624
+
+报告人：王萌
+
+隶属项目：PLCT实验室Spike项目
+
+内容简介：Spike-fesvr及外部设备实现分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1ET4y1J7As
