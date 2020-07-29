@@ -823,3 +823,66 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1ET4y1J7As
+
+
+### Introduction to Chisel/FIRRTL Hardware Compiler Framework - 20200715 - Boyang Han
+
+报告题目：Introduction to Chisel/FIRRTL Hardware Compiler Framework
+
+报告时间：20200715
+
+报告人：Boyang Han
+
+隶属项目：PLCT 实验室 Chisel/FIRRTL 项目
+
+内容简介：Introduction to Chisel/FIRRTL Hardware Compiler Framework
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1qV41167Wu
+
+
+### Circuit Capture of Chisel Part 1. Correctness - 20200722 - Boyang Han
+
+报告题目：Circuit Capture of Chisel (Part 1. Correctness)
+
+报告时间：20200722
+
+报告人：Boyang Han
+
+隶属项目：PLCT 实验室 Chisel/FIRRTL 项目
+
+内容简介：Circuit Capture of Chisel (Part 1. Correctness)
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Qk4y127bC
+
+
+### Circuit Capture of Chisel Part 2. Naming - 20200722 - Boyang Han
+
+报告题目：Circuit Capture of Chisel (Part 2. Naming)
+
+报告时间：20200729
+
+报告人：Boyang Han
+
+隶属项目：PLCT 实验室 Chisel/FIRRTL 项目
+
+内容简介：Circuit Capture of Chisel (Part 2. Naming)
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Zi4y137gs
