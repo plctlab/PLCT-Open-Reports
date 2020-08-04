@@ -886,3 +886,19 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Zi4y137gs
+
+### OpenJDK对于RISC-V的支持现状以及路线图-20200804-张定立
+
+报告题目：OpenJDK对于RISC-V的支持现状以及路线图
+
+报告时间：20200804
+
+报告人：张定立
+
+隶属项目/团队：PLCT江浙沪皖小队
+
+内容简介：OpenJDK对于RISC-V的支持现状以及路线图
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
