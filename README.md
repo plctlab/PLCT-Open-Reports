@@ -902,3 +902,23 @@ https://www.bilibili.com/video/BV1Zi4y137gs
 幻灯片或资料链接：
 
 https://github.com/isrc-cas/PLCT-Open-Reports
+
+### Linux设备树介绍及加载过程分析-20200812-王萌
+
+报告题目：Linux设备树介绍及加载过程分析
+
+报告时间：20200812
+
+报告人：王萌
+
+隶属项目/团队：PLCT实验室Spike项目
+
+内容简介：Linux设备树介绍及加载过程分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Ti4y1g7oH
