@@ -903,6 +903,26 @@ https://www.bilibili.com/video/BV1Zi4y137gs
 
 https://github.com/isrc-cas/PLCT-Open-Reports
 
+### Kaleidoscope语言代码解释（第一期）-20200805-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第一期）
+
+报告时间：20200805
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1qk4y1m7tf
+
 ### Linux设备树介绍及加载过程分析-20200812-王萌
 
 报告题目：Linux设备树介绍及加载过程分析
@@ -922,3 +942,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Ti4y1g7oH
+
+### Kaleidoscope语言代码解释（第二期）-20200819-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第二期）
+
+报告时间：20200819
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+（暂无）
