@@ -961,4 +961,4 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 视频或专栏文章链接：
 
-（暂无）
+https://www.bilibili.com/video/BV19t4y1U7qS
