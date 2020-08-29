@@ -982,3 +982,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1My4y1y73q
+
+### Kaleidoscope语言代码解释（第四期）-20200828-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第四期）
+
+报告时间：20200828
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Q54y127nn
