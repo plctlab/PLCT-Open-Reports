@@ -963,6 +963,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV19t4y1U7qS
 
+### Introduction to FIRRTL - 20200823 @ OSDT - Boyang Han
+
+报告题目：Introduction to FIRRTL
+
+报告时间：20200823
+
+报告人：Boyang Han
+
+隶属项目：PLCT 实验室 Chisel/FIRRTL 项目
+
+内容简介：Introduction to FIRRTL, Installation of FIRRTL compiler, basic syntax of FIRRTL.
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV12a4y177ME
+
 ### Kaleidoscope语言代码解释（第三期）-20200826-孙少策
 
 报告题目：Kaleidoscope语言代码解释（第三期）
