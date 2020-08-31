@@ -885,4 +885,124 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 视频或专栏文章链接：
 
+<<<<<<< HEAD
 https://www.bilibili.com/video/BV1Zi4y137gs
+=======
+https://www.bilibili.com/video/BV1Zi4y137gs
+
+### OpenJDK对于RISC-V的支持现状以及路线图-20200804-张定立
+
+报告题目：OpenJDK对于RISC-V的支持现状以及路线图
+
+报告时间：20200804
+
+报告人：张定立
+
+隶属项目/团队：PLCT江浙沪皖小队
+
+内容简介：OpenJDK对于RISC-V的支持现状以及路线图
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+### Kaleidoscope语言代码解释（第一期）-20200805-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第一期）
+
+报告时间：20200805
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1qk4y1m7tf
+
+### Linux设备树介绍及加载过程分析-20200812-王萌
+
+报告题目：Linux设备树介绍及加载过程分析
+
+报告时间：20200812
+
+报告人：王萌
+
+隶属项目/团队：PLCT实验室Spike项目
+
+内容简介：Linux设备树介绍及加载过程分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Ti4y1g7oH
+
+### Kaleidoscope语言代码解释（第二期）-20200819-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第二期）
+
+报告时间：20200819
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV19t4y1U7qS
+
+### Kaleidoscope语言代码解释（第三期）-20200826-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第三期）
+
+报告时间：20200826
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1My4y1y73q
+
+### Kaleidoscope语言代码解释（第四期）-20200828-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第四期）
+
+报告时间：20200828
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Q54y127nn
+>>>>>>> ab7f05e1019ab4bb13e6215360868648ed2ab0f4
