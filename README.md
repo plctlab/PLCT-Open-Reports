@@ -138,7 +138,7 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av88544146
 
-### 编译器入门-20200213-实习生王天然 
+### 编译器入门-20200213-实习生王天然
 
 报告题目：编译器入门
 
@@ -1142,3 +1142,24 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.zhihu.com/column/c_1289607169214820352
+
+### 20201014-成为LLVM的贡献者-孙少策
+
+报告题目：成为LLVM的贡献者
+
+报告时间：20201014
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室
+
+内容简介：介绍如何成为LLVM贡献者的流程
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Vz4y1o7Yv
+
