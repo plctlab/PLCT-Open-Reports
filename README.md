@@ -138,7 +138,7 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av88544146
 
-### 编译器入门-20200213-实习生王天然 
+### 编译器入门-20200213-实习生王天然
 
 报告题目：编译器入门
 
@@ -803,6 +803,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV16p4y1D77b
 
+### 20200619-QEMU_BIOS简介-陈嘉炜
+
+报告题目：QEMU_BIOS简介
+
+报告时间：20200619
+
+报告人：陈嘉炜
+
+隶属项目：PLCT实验室qemu项目
+
+内容简介：介绍qemu_bios工具
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1xV411k7mr?from=search&seid=5602113976955164489
+
 
 ### Spike-fesvr及外部设备实现分析-20200624-王萌
 
@@ -1102,3 +1122,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1mp4y1e7JN/
+
+### 20200923-Google_XLS项目简介-陈嘉炜
+
+报告题目：Google_XLS项目简介
+
+报告时间：20200923
+
+报告人：陈嘉炜
+
+隶属项目：PLCT 实验室 CIRCT 项目
+
+内容简介：Google XLS项目简介，语法优化介绍
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.zhihu.com/column/c_1289607169214820352
