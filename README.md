@@ -1163,3 +1163,20 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1Vz4y1o7Yv
 
+### 20201015 RISC-V开源软件生态
+
+报告题目：RISC-V开源软件生态
+
+报告时间：20201015
+
+报告人：吴伟
+
+隶属项目：PLCT 实验室
+
+内容简介：在 IC China 2020 的 RISC-V 分论坛中介绍 RISC-V 的开源软件社区
+
+幻灯片或资料链接：
+
+[pdf](20201015-RISCV-Software-Ecosystem.pdf)
+
+
