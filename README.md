@@ -1180,3 +1180,22 @@ https://www.bilibili.com/video/BV1Vz4y1o7Yv
 [pdf](20201015-RISCV-Software-Ecosystem.pdf)
 
 
+### 20201021-RISC-V GNU Toolchain构建-陈嘉炜
+
+报告题目：RISC-V GNU Toolchain构建
+
+报告时间：202010
+
+报告人：陈嘉炜
+
+隶属项目：PLCT 实验室 RISC-V GNU Toolchain 项目
+
+内容简介：RISC-V GNU Toolchain项目内容简介，仓库版本介绍，构建选择方法，交叉编译选择
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Ap4y1k7UY?from=search&seid=13488040580868682929
