@@ -1199,3 +1199,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Ap4y1k7UY?from=search&seid=13488040580868682929
+
+### 20201030-PLCT编译器设计讨论班(2020秋) 第04次讨论：编译器优化-陈嘉炜
+
+报告题目：编译器优化简介
+
+报告时间：202010
+
+报告人：陈嘉炜
+
+隶属项目：PLCT编译器设计讨论班(2020秋)
+
+内容简介：介绍编译器优化的概念和一些基本优化示例
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Qt4y1Y7yc?p=2
