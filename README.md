@@ -1219,3 +1219,21 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Qt4y1Y7yc?p=2
+
+### 20201111-USB驱动框架及RTT-王萌
+
+报告题目：USB驱动框架及RT-Thread的USB host实现分析
+报告时间：202011
+
+报告人：陈嘉炜
+
+隶属项目：模拟器分支
+
+内容简介：USB驱动框架及RT-Thread的USB host实现分析
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1oy4y1B7B1
