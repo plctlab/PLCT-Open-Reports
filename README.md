@@ -1220,12 +1220,32 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV1Qt4y1Y7yc?p=2
 
+### 20201106-PLCT编译器设计讨论班(2020秋) 第06次讨论：指令选择、zfinx简介-陈嘉炜
+
+报告题目：指令选择
+
+报告时间：202011
+
+报告人：陈嘉炜
+
+隶属项目：PLCT编译器设计讨论班(2020秋)
+
+内容简介：介绍编译器指令选择的概念和riscv-zfinx扩展
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Tz4y1y7Ng?p=3
+
 ### 20201111-USB驱动框架及RTT-王萌
 
 报告题目：USB驱动框架及RT-Thread的USB host实现分析
 报告时间：202011
 
-报告人：陈嘉炜
+报告人：王萌
 
 隶属项目：模拟器分支
 
@@ -1237,3 +1257,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1oy4y1B7B1
+
+### 20201111-ZFINX在GCC与BINUTILS中的工作介绍
+
+报告题目：ZFINX WORKING IN GCC AND BINUTILS
+
+报告时间：202011
+
+报告人：陈嘉炜
+
+隶属项目：RISCV-CODESIZE-REDUCTION
+
+内容简介：介绍在GCC与Binutils中添加riscv-zfinx扩展的工作
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV11a4y1s7uG
