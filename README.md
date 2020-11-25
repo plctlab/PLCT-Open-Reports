@@ -1277,3 +1277,27 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV11a4y1s7uG
+
+### 20201111-Porting ZFINX support On RISC-V GNU ToolChain
+
+报告题目：Porting ZFINX support On RISC-V GNU ToolChain
+
+报告时间：20201120
+
+报告人：陈嘉炜
+
+隶属项目：RISCV-CODESIZE-REDUCTION
+
+内容简介：介绍GCC和Binutils中的移植操作与测试
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1iz4y1y7Xe?p=2
+
+https://www.bilibili.com/video/BV1iz4y1y7Xe?p=3
+
+https://www.bilibili.com/video/BV1A54y1k7q3?t=2762&p=2
