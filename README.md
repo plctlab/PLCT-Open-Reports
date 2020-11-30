@@ -1301,3 +1301,23 @@ https://www.bilibili.com/video/BV1iz4y1y7Xe?p=2
 https://www.bilibili.com/video/BV1iz4y1y7Xe?p=3
 
 https://www.bilibili.com/video/BV1A54y1k7q3?t=2762&p=2
+
+### 20201118-Implementation analysis of RISC-V Zfinx extension in QEMU
+
+报告题目：Implementation analysis of RISC-V Zfinx extension in QEMU
+
+报告时间：20201118
+
+报告人：段甲华
+
+隶属项目：模拟器分支
+
+内容简介：QEMU的代码转换分析与RISC-V的Zfinx扩展在QEMU中的实现分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Sa4y1p7nF
