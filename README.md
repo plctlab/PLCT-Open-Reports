@@ -1199,6 +1199,16 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Ap4y1k7UY?from=search&seid=13488040580868682929
+### 20201029-对分析V8 riscv和mips的指令数量-陆亚涵
+报告题目: 对分析V8 riscv和mips的指令数量
+
+报告时间: 20201029
+
+报告人:   陆亚涵
+
+隶属项目:V8-RISCV
+
+内容简介：对分析V8 riscv和mips的指令数量
 
 ### 20201030-PLCT编译器设计讨论班(2020秋) 第04次讨论：编译器优化-陈嘉炜
 
