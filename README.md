@@ -138,7 +138,7 @@ https://github.com/zhengzhiwen123/PLCT-Open-Reports
 
 https://www.bilibili.com/video/av88544146
 
-### 编译器入门-20200213-实习生王天然 
+### 编译器入门-20200213-实习生王天然
 
 报告题目：编译器入门
 
@@ -803,6 +803,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 
 https://www.bilibili.com/video/BV16p4y1D77b
 
+### 20200619-QEMU_BIOS简介-陈嘉炜
+
+报告题目：QEMU_BIOS简介
+
+报告时间：20200619
+
+报告人：陈嘉炜
+
+隶属项目：PLCT实验室qemu项目
+
+内容简介：介绍qemu_bios工具
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1xV411k7mr?from=search&seid=5602113976955164489
+
 
 ### Spike-fesvr及外部设备实现分析-20200624-王萌
 
@@ -1022,3 +1042,292 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Q54y127nn
+
+### Kaleidoscope语言代码解释（第五期）-20200901-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第五期）
+
+报告时间：20200901
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1xD4y1m7Hu
+
+### Kaleidoscope语言代码解释（第六期）-20200905-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第六期）
+
+报告时间：20200905
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Qv411y7ad
+
+### Kaleidoscope语言代码解释（第七期）-20200905-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第七期）
+
+报告时间：20200905
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV15D4y1m7E9
+
+### Kaleidoscope语言代码解释（第八期）-20200912-孙少策
+
+报告题目：Kaleidoscope语言代码解释（第八期）
+
+报告时间：20200912
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室 Eternal Balance 项目
+
+内容简介：Kaleidoscope 相关的代码解释
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1mp4y1e7JN/
+
+### 20200923-Google_XLS项目简介-陈嘉炜
+
+报告题目：Google_XLS项目简介
+
+报告时间：20200923
+
+报告人：陈嘉炜
+
+隶属项目：PLCT 实验室 CIRCT 项目
+
+内容简介：Google XLS项目简介，语法优化介绍
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.zhihu.com/column/c_1289607169214820352
+
+### 20201014-成为LLVM的贡献者-孙少策
+
+报告题目：成为LLVM的贡献者
+
+报告时间：20201014
+
+报告人：孙少策
+
+隶属项目：PLCT 实验室
+
+内容简介：介绍如何成为LLVM贡献者的流程
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Vz4y1o7Yv
+
+### 20201015 RISC-V开源软件生态
+
+报告题目：RISC-V开源软件生态
+
+报告时间：20201015
+
+报告人：吴伟
+
+隶属项目：PLCT 实验室
+
+内容简介：在 IC China 2020 的 RISC-V 分论坛中介绍 RISC-V 的开源软件社区
+
+幻灯片或资料链接：
+
+[pdf](20201015-RISCV-Software-Ecosystem.pdf)
+
+
+### 20201021-RISC-V GNU Toolchain构建-陈嘉炜
+
+报告题目：RISC-V GNU Toolchain构建
+
+报告时间：202010
+
+报告人：陈嘉炜
+
+隶属项目：PLCT 实验室 RISC-V GNU Toolchain 项目
+
+内容简介：RISC-V GNU Toolchain项目内容简介，仓库版本介绍，构建选择方法，交叉编译选择
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Ap4y1k7UY?from=search&seid=13488040580868682929
+### 20201029-对分析V8 riscv和mips的指令数量-陆亚涵
+报告题目: 对分析V8 riscv和mips的指令数量
+
+报告时间: 20201029
+
+报告人:   陆亚涵
+
+隶属项目:V8-RISCV
+
+内容简介：对分析V8 riscv和mips的指令数量
+
+### 20201030-PLCT编译器设计讨论班(2020秋) 第04次讨论：编译器优化-陈嘉炜
+
+报告题目：编译器优化简介
+
+报告时间：202010
+
+报告人：陈嘉炜
+
+隶属项目：PLCT编译器设计讨论班(2020秋)
+
+内容简介：介绍编译器优化的概念和一些基本优化示例
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Qt4y1Y7yc?p=2
+
+### 20201106-PLCT编译器设计讨论班(2020秋) 第06次讨论：指令选择、zfinx简介-陈嘉炜
+
+报告题目：指令选择
+
+报告时间：202011
+
+报告人：陈嘉炜
+
+隶属项目：PLCT编译器设计讨论班(2020秋)
+
+内容简介：介绍编译器指令选择的概念和riscv-zfinx扩展
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Tz4y1y7Ng?p=3
+
+### 20201111-USB驱动框架及RTT-王萌
+
+报告题目：USB驱动框架及RT-Thread的USB host实现分析
+报告时间：202011
+
+报告人：王萌
+
+隶属项目：模拟器分支
+
+内容简介：USB驱动框架及RT-Thread的USB host实现分析
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1oy4y1B7B1
+
+### 20201111-ZFINX在GCC与BINUTILS中的工作介绍
+
+报告题目：ZFINX WORKING IN GCC AND BINUTILS
+
+报告时间：202011
+
+报告人：陈嘉炜
+
+隶属项目：RISCV-CODESIZE-REDUCTION
+
+内容简介：介绍在GCC与Binutils中添加riscv-zfinx扩展的工作
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV11a4y1s7uG
+
+### 20201111-Porting ZFINX support On RISC-V GNU ToolChain
+
+报告题目：Porting ZFINX support On RISC-V GNU ToolChain
+
+报告时间：20201120
+
+报告人：陈嘉炜
+
+隶属项目：RISCV-CODESIZE-REDUCTION
+
+内容简介：介绍GCC和Binutils中的移植操作与测试
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1iz4y1y7Xe?p=2
+
+https://www.bilibili.com/video/BV1iz4y1y7Xe?p=3
+
+https://www.bilibili.com/video/BV1A54y1k7q3?t=2762&p=2
+
+### 20201118-Implementation analysis of RISC-V Zfinx extension in QEMU
+
+报告题目：Implementation analysis of RISC-V Zfinx extension in QEMU
+
+报告时间：20201118
+
+报告人：段甲华
+
+隶属项目：模拟器分支
+
+内容简介：QEMU的代码转换分析与RISC-V的Zfinx扩展在QEMU中的实现分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1Sa4y1p7nF
