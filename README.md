@@ -1331,3 +1331,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1Sa4y1p7nF
+
+### 20201204-LLVM测试框架介绍
+
+报告题目：LLVM测试框架介绍
+
+报告时间：20201204
+
+报告人：陈小欧
+
+隶属项目：RISC-V 「V」向量扩展LLVM实现
+
+内容简介：LLVM测试框架介绍以及如何写一个测试用例
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1MK4y1L7jw
