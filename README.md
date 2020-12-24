@@ -1351,3 +1351,39 @@ https://github.com/isrc-cas/PLCT-Open-Reports
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1MK4y1L7jw
+
+### 20201218-ZFINX GDB Disassembly反汇编工作介绍
+
+报告题目：ZFINX GDB Disassembly
+
+报告时间：20201218
+
+报告人：陈嘉炜
+
+隶属项目：RISC-V Codesize Reduction
+
+内容简介：介绍反汇编的框架，和ZFINX反汇编实现工作的有关类容
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1AT4y1u7ys
+
+### 20201224-RISCV-SIG社区工作进展、Zfinx进展
+
+报告题目：RISCV-SIG社区工作进展、Zfinx进展
+
+报告时间：20201224
+
+报告人：陈嘉炜
+
+隶属项目：RISC-V Codesize Reduction/RISC-V Code Speed SIG
+
+内容简介：Code Speed SIG项目内容与进展，Codesize Reduction中Zfinx项目工作进展
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports
