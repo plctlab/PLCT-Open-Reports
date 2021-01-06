@@ -1387,3 +1387,19 @@ https://www.bilibili.com/video/BV1AT4y1u7ys
 幻灯片或资料链接：
 
 https://github.com/isrc-cas/PLCT-Open-Reports
+
+### 20200106-pitifulvm-乌鑫龙
+
+报告题目：pitifulvm源码分析
+
+报告时间：20200106
+
+报告人：乌鑫龙
+
+隶属项目：技术报告面试
+
+内容简介：pitifulvm源码分析
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV1vp4y1s7fs
