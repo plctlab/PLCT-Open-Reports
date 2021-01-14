@@ -1438,4 +1438,4 @@ https://github.com/v8-riscv/v8/wiki/How-to-debug-V8
 
 视频或专栏文章链接：
 
-https://www.bilibili.com/video/BV14f4y1k7ax
+https://www.bilibili.com/video/BV1jU4y147eD
