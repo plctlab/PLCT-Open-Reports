@@ -1419,3 +1419,19 @@ https://www.bilibili.com/video/BV1vp4y1s7fs
 幻灯片或资料链接：
 
 https://www.bilibili.com/video/BV14f4y1k7ax
+
+### 20210113-Csmith vs YARPGen-陈小欧
+
+报告题目：Comparison Between Csmith and YarpGen
+
+报告时间：20210113
+
+报告人：陈小欧
+
+隶属项目：RISC-V 「V」向量扩展LLVM实现
+
+内容简介：对比随机自动化测试工具Csmith和YARPGen
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV1rt4y1z7h4
