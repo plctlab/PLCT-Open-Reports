@@ -1419,3 +1419,23 @@ https://www.bilibili.com/video/BV1vp4y1s7fs
 幻灯片或资料链接：
 
 https://www.bilibili.com/video/BV14f4y1k7ax
+
+### 20210113-How to debug V8 学习报告-梁斌
+
+报告题目：How to debug V8 学习报告
+
+报告时间：20200113
+
+报告人：梁斌
+
+隶属项目：技术报告面试
+
+内容简介：How to debug V8 学习报告
+
+幻灯片或资料链接：
+
+https://github.com/v8-riscv/v8/wiki/How-to-debug-V8
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV14f4y1k7ax
