@@ -1420,6 +1420,22 @@ https://www.bilibili.com/video/BV1vp4y1s7fs
 
 https://www.bilibili.com/video/BV14f4y1k7ax
 
+### 20210113-DeepDSL-xmj
+
+报告题目：深度学习DSL简介
+
+报告时间：20200113
+
+报告人：邢明杰
+
+隶属项目：论文分享
+
+内容简介：深度学习DSL介绍
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV1oy4y1H76T
+
 ### 20210113-How to debug V8 学习报告-梁斌
 
 报告题目：How to debug V8 学习报告
@@ -1455,3 +1471,4 @@ https://www.bilibili.com/video/BV1jU4y147eD
 幻灯片或资料链接：
 
 https://www.bilibili.com/video/BV1rt4y1z7h4
+
