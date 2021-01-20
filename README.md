@@ -1472,3 +1472,21 @@ https://www.bilibili.com/video/BV1jU4y147eD
 
 https://www.bilibili.com/video/BV1rt4y1z7h4
 
+### 20210120-Gem5 And RISC-V Supoort -卢睿博
+
+报告题目：Implementation Framework And Present Support Analysis Of Gem5
+               
+报告时间：20210120
+
+报告人：卢睿博
+
+隶属项目：技术报告面试
+
+内容简介：**gem5** 实现框架分析和对 **RISC‐V** 支持现状
+
+幻灯片或资料链接：
+
+https://github.com/dingiso/PLCT-Open-Reports/blob/master/20210120-Gem5-LuRuibo.pdf
+
+视频或专栏文章链接：
+
