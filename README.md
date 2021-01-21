@@ -1490,3 +1490,4 @@ https://github.com/dingiso/PLCT-Open-Reports/blob/master/20210120-Gem5-LuRuibo.p
 
 视频或专栏文章链接：
 
+https://www.bilibili.com/video/BV155411J7gY?from=search&seid=13673609061286525365
