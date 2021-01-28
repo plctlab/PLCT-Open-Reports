@@ -1475,7 +1475,7 @@ https://www.bilibili.com/video/BV1rt4y1z7h4
 ### 20210120-Gem5 And RISC-V Supoort -卢睿博
 
 报告题目：Implementation Framework And Present Support Analysis Of Gem5
-               
+
 报告时间：20210120
 
 报告人：卢睿博
@@ -1495,7 +1495,7 @@ https://www.bilibili.com/video/BV155411J7gY?from=search&seid=1367360906128652536
 ### 20210122-RISC-V ABI介绍-林思南
 
 报告题目：An introduction to RISC-V ABI
-               
+
 报告时间：20210122
 
 报告人：林思南
@@ -1511,3 +1511,20 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210122-an-intro-to-R
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1bz4y1S71o
+
+### 20210127-WebAssembly-Compilation-Pipeline-姜宇辰
+
+报告题目：WASM Compilation Pipeline
+
+报告时间：20210127
+
+报告人：姜宇辰
+
+隶属项目：V8 for RISC-V
+
+内容简介：介绍V8编译WASM的流程并分析Liftoff编译器源码
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV19o4y1R71F
+
