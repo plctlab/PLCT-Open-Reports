@@ -1528,3 +1528,19 @@ https://www.bilibili.com/video/BV1bz4y1S71o
 
 https://www.bilibili.com/video/BV19o4y1R71F
 
+### 20210127-Debugging-WebAssembly-with-modern-tools-梁斌
+
+报告题目：Debugging WebAssembly with modern tools
+
+报告时间：20210127
+
+报告人：梁斌
+
+隶属项目：V8 for RISC-V
+
+内容简介：介绍谷歌目前对WASM的debug方法与改进
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV16T4y1P7iJ
+
