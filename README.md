@@ -1419,3 +1419,112 @@ https://www.bilibili.com/video/BV1vp4y1s7fs
 幻灯片或资料链接：
 
 https://www.bilibili.com/video/BV14f4y1k7ax
+
+### 20210113-DeepDSL-xmj
+
+报告题目：深度学习DSL简介
+
+报告时间：20200113
+
+报告人：邢明杰
+
+隶属项目：论文分享
+
+内容简介：深度学习DSL介绍
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV1oy4y1H76T
+
+### 20210113-How to debug V8 学习报告-梁斌
+
+报告题目：How to debug V8 学习报告
+
+报告时间：20200113
+
+报告人：梁斌
+
+隶属项目：技术报告面试
+
+内容简介：How to debug V8 学习报告
+
+幻灯片或资料链接：
+
+https://github.com/v8-riscv/v8/wiki/How-to-debug-V8
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1jU4y147eD
+
+### 20210113-Csmith vs YARPGen-陈小欧
+
+报告题目：Comparison Between Csmith and YarpGen
+
+报告时间：20210113
+
+报告人：陈小欧
+
+隶属项目：RISC-V 「V」向量扩展LLVM实现
+
+内容简介：对比随机自动化测试工具Csmith和YARPGen
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV1rt4y1z7h4
+
+### 20210120-Gem5 And RISC-V Supoort -卢睿博
+
+报告题目：Implementation Framework And Present Support Analysis Of Gem5
+
+报告时间：20210120
+
+报告人：卢睿博
+
+隶属项目：技术报告面试
+
+内容简介：**gem5** 实现框架分析和对 **RISC‐V** 支持现状
+
+幻灯片或资料链接：
+
+https://github.com/dingiso/PLCT-Open-Reports/blob/master/20210120-Gem5-LuRuibo.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV155411J7gY?from=search&seid=13673609061286525365
+
+### 20210122-RISC-V ABI介绍-林思南
+
+报告题目：An introduction to RISC-V ABI
+
+报告时间：20210122
+
+报告人：林思南
+
+隶属项目：技术报告面试
+
+内容简介：对RISC-V psABI中的规范进行介绍和分析
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210122-an-intro-to-RISCV-ABI-linsinan.pptx
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1bz4y1S71o
+
+### 20210127-WebAssembly-Compilation-Pipeline-姜宇辰
+
+报告题目：WASM Compilation Pipeline
+
+报告时间：20210127
+
+报告人：姜宇辰
+
+隶属项目：V8 for RISC-V
+
+内容简介：介绍V8编译WASM的流程并分析Liftoff编译器源码
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV19o4y1R71F
+
