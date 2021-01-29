@@ -1544,3 +1544,19 @@ https://www.bilibili.com/video/BV19o4y1R71F
 
 https://www.bilibili.com/video/BV16T4y1P7iJ
 
+### 20210129-RISC-V-Crypto-Extension-Lucas
+
+报告题目：RISC-V Crypto Extension
+
+报告时间：20210129
+
+报告人：叶泽文（Lucas）
+
+隶属项目：技术报告面试
+
+内容简介：简单介绍RISC-V K扩展
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV15X4y1N7t8
+
