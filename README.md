@@ -1560,3 +1560,19 @@ https://www.bilibili.com/video/BV16T4y1P7iJ
 
 https://www.bilibili.com/video/BV15X4y1N7t8
 
+### 20210129-RISC-V B扩展(Bitmanip)概述-SiYu Wu
+
+报告题目：RISC-V B扩展(Bitmanip)概述
+
+报告时间：20210129
+
+报告人：吴思宇
+
+隶属项目：技术报告面试
+
+内容简介：RISC-V B扩展(Bitmanip)概述，包括一些指令和支持情况
+
+幻灯片或资料链接：
+
+https://www.bilibili.com/video/BV14t4y167DC
+
