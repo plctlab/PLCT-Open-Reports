@@ -1576,3 +1576,21 @@ https://www.bilibili.com/video/BV15X4y1N7t8
 
 https://www.bilibili.com/video/BV14t4y167DC
 
+### 20210224- RVP代码分析 -卢睿博
+
+报告题目：Code Analysis Of RISC‐V P extensions in QEMU
+
+报告时间：20210224
+
+报告人：卢睿博
+
+隶属项目：QEMU 模拟器
+
+内容简介：基于QEMU中已提交的P扩展patch进行代码分析和介绍
+
+幻灯片或资料链接：
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210224-Code%20Analysis%20Of%20RVP-LuRuibo.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV11h411r74j?from=search&seid=2946937623872133115
