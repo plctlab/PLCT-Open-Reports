@@ -1589,6 +1589,7 @@ https://www.bilibili.com/video/BV14t4y167DC
 内容简介：基于QEMU中已提交的P扩展patch进行代码分析和介绍
 
 幻灯片或资料链接：
+
 https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210224-Code%20Analysis%20Of%20RVP-LuRuibo.pdf
 
 视频或专栏文章链接：
