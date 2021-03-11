@@ -1595,3 +1595,19 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210224-Code%20Analys
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV11h411r74j?from=search&seid=2946937623872133115
+
+### 20210310-RVK进度汇报-Lucas
+
+报告题目： Progress of Scalar Crypto Support on QEMU
+
+报告时间：20210310
+
+报告人：Lucas Zewen Ye
+
+隶属项目：QEMU 模拟器
+
+内容简介： Progress of K-ext Support on QEMU
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV13p4y1h7cR
