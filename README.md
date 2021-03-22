@@ -1611,3 +1611,22 @@ https://www.bilibili.com/video/BV11h411r74j?from=search&seid=2946937623872133115
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV13p4y1h7cR
+### 202100310 - Progress of Scalar Crypto Support on LLVM - 乌鑫龙
+
+报告题目：Progress of Scalar Crypto Support on LLVM
+
+报告时间：20210310
+
+报告人：乌鑫龙
+
+隶属项目：LLVM
+
+内容简介：LLVM 对于 RISCV K扩展的支持进展
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/Krypto-Scalar-DoD-LLVM-20210310.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV16Z4y1P72b
