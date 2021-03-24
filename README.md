@@ -1611,7 +1611,7 @@ https://www.bilibili.com/video/BV11h411r74j?from=search&seid=2946937623872133115
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV13p4y1h7cR
-### 202100310 - Progress of Scalar Crypto Support on LLVM - 乌鑫龙
+### 20210310 - Progress of Scalar Crypto Support on LLVM - 乌鑫龙
 
 报告题目：Progress of Scalar Crypto Support on LLVM
 
@@ -1630,3 +1630,24 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/Krypto-Scalar-DoD-LLVM
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV16Z4y1P72b
+
+### 20210324 - RISC-V and Rust and Embedded - 车春池
+
+报告题目：RISC-V and Rust and Embedded  
+
+报告时间：20210324  
+
+报告人：车春池  
+
+隶属项目：技术报告面试  
+
+内容简介：浅谈 RISC-V 与 Rust 语言与嵌入式开发  
+
+幻灯片或资料链接：  
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210324-riscv-Rust-embedded.pdf  
+
+视频或专栏文章链接：  
+
+https://www.bilibili.com/video/BV1cK4y1M7cY  
+
