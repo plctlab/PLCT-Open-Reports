@@ -1651,3 +1651,42 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210324-riscv-Rust-em
 
 https://www.bilibili.com/video/BV1cK4y1M7cY  
 
+### 20210310 - GNU GCC Testsuite - 陈小欧
+
+报告题目：GNU GCC Testsuite
+
+报告时间：20210310
+
+报告人：陈小欧
+
+隶属项目：测试测评
+
+内容简介：GNU GCC Testsuite介绍和运行方法
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210310-GNU-GCC-Testsuite-chenxiaoou.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1EV411Y7Ne
+
+### 20210331 - 如何使用gcov和linux-perf工具抓热点代码 - 陈小欧
+
+报告题目：如何使用gcov和linux-perf工具抓热点代码
+
+报告时间：20210331
+
+报告人：陈小欧
+
+隶属项目：测试测评
+
+内容简介：如何使用gcov和linux-perf工具抓热点代码
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210331-如何使用gcov和linux-perf工具抓热点代码-陈小欧.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1MK4y1m7Uj
