@@ -1690,3 +1690,24 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210331-如何使用g
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1MK4y1m7Uj
+
+### 20210328 - RISC-V K 扩展功能介绍
+
+报告题目：RISC-V K 扩展功能介绍
+
+报告时间：20210328
+
+报告人：吴思宇
+
+隶属项目：GNU Toolchain
+
+内容简介：RISC-V K 扩展功能和相关加密算法的介绍
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210328-RISC-V_K_扩展功能介绍slide.pdf
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/220210328-RISC-V_K_扩展概述文档.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1rf4y1x7So
