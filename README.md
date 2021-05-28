@@ -1712,6 +1712,26 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/220210328-RISC-V_K_扩
 
 https://www.bilibili.com/video/BV1rf4y1x7So
 
+### 20210512 - 添加Zce指令到RISCV-GNU-Toolchain - 陈嘉炜
+
+报告题目：添加Zce指令到RISCV-GNU-Toolchain
+
+报告时间：20210512
+
+报告人：陈嘉炜
+
+隶属项目：RISC-V GNU Toolchain
+
+内容简介：介绍添加ISA ZCE中的指令到RISC-V GNU Toolchain中的方法
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210512-添加Zce指令到RISCV-GNU-Toolchain- 陈嘉炜.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1QU4y1t7GQ
+
 ### 20210520 - Ignition解释器的工作过程 - 刘铮
 
 报告题目：入职报告：Ignition解释器工作过程
@@ -1732,3 +1752,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210520-Ignition-work
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV16b4y1f7Wf
+
+### 20210512 - lazy binding on RISCV - 陈嘉炜
+
+报告题目：lazy binding on RISCV
+
+报告时间：20210526
+
+报告人：陈嘉炜
+
+隶属项目：RISC-V GNU Toolchain
+
+内容简介：介绍lazy binding的概念及其在RISC-V中的调用约定
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210526--lazy binding on RISCV陈嘉炜.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1LB4y1u7H1
