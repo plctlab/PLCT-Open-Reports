@@ -7,27 +7,9 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 ---------------------------------------------
 |日期|题目|报告人|slides|video|备注|
 |----|----|----|----|----|----|
-| 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|
-
-### OpenCV for RISC-V 第一课-20200205-实习生郑志文
-
-报告题目：OpenCV for RISC-V 第一课：OpenCV 介绍、国内团队介绍、编译及运行，CMake系统介绍
-
-报告时间：20200205
-
-报告人：郑志文
-
-隶属项目：PLCT实验室OpenCV for RISC-V
-
-内容简介：涉及OpenCV 介绍、国内团队介绍、编译及运行，CMake系统介绍
-
-幻灯片或资料链接：
-
-https://github.com/zhengzhiwen123/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://github.com/isrc-cas/opencv-riscv
+| date | author | title |[slides]() | [links]()| 请按照时间倒序插入，最新鲜的放在表头 |
+| 20200205 | 郑志文 | OpenCV for RISC-V 第一课 |[slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
+| 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
 
 ### MLIR & python binding简介-20200205-研究生张洪滨
 
