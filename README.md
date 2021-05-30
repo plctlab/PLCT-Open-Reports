@@ -4,10 +4,10 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 
 ## 报告的索引：
 
-|----|----|----|----|----|----|
+---------------------------------------------
 |日期|题目|报告人|slides|video|备注|
-| 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|
 |----|----|----|----|----|----|
+| 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|
 
 ### OpenCV for RISC-V 第一课-20200205-实习生郑志文
 
