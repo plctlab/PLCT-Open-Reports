@@ -1739,3 +1739,23 @@ https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210526--lazy binding
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1LB4y1u7H1
+
+### 20210512 - Perf更详细的介绍 - 陈小欧
+
+报告题目：Perf更详细的介绍
+
+报告时间：20210512
+
+报告人：陈小欧
+
+隶属项目：测试测评
+
+内容简介：Perf更详细的介绍，更多介绍了常用的参数。
+
+幻灯片或资料链接：
+
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210512-常用perf命令详解-陈小欧.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1hK4y1A7U4
