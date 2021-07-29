@@ -10,80 +10,9 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入，最新鲜的放在表头 |
 | 20200205 | 郑志文 | OpenCV for RISC-V 第一课 |[slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
 | 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
+| 20200205 | MLIR & python binding简介 | 张洪滨 | [1.初见MLIR](https://zhuanlan.zhihu.com/p/101879367) <br> [2.MLIR的法宝](https://zhuanlan.zhihu.com/p/102212806)<br> [3.MLIR的惊鸿一瞥](https://zhuanlan.zhihu.com/p/102395938)<br> [4.MLIR的生产线--Dialects和他的小伙伴们](https://zhuanlan.zhihu.com/p/102565792)<br> [5.MLIR Dialect的零件生产者 – TableGen](https://zhuanlan.zhihu.com/p/102727417) <br>[6.MLIR 开放项目 -- python bindings](https://zhuanlan.zhihu.com/p/102934213)<br> [7.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [8.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [9.MLIR python binding -- pybind11](https://zhuanlan.zhihu.com/p/103836518) <br>[10.将pybind11示例嵌入到MLIR中](https://zhuanlan.zhihu.com/p/104717000) <br> [11.基于CMake构建系统的MLIR Example扩展](https://zhuanlan.zhihu.com/p/104948867)<br> [12.MLIR python binding 简易模型建立](https://zhuanlan.zhihu.com/p/103524807)| [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
 
-### MLIR & python binding简介-20200205-研究生张洪滨
 
-报告题目：MLIR & python binding简介
-
-报告时间：2020年02月05日
-
-报告人：张洪滨
-
-隶属项目：Google Summer of Code 2020
-
-内容简介：简述MLIR背景、作用和工作方式。介绍在GSoC 2020中的MLIR开放项目 -- MLIR python binding 以及项目研究进展。
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/av91877563
-
-视频或专栏文章链接：
-
-[初见MLIR](https://zhuanlan.zhihu.com/p/101879367)
-
-[MLIR的法宝](https://zhuanlan.zhihu.com/p/102212806)
-
-[MLIR的惊鸿一瞥](https://zhuanlan.zhihu.com/p/102395938)
-
-[MLIR的生产线--Dialects和他的小伙伴们](https://zhuanlan.zhihu.com/p/102565792)
-
-[MLIR Dialect的零件生产者 – TableGen](https://zhuanlan.zhihu.com/p/102727417)
-
-[MLIR 开放项目 -- python bindings](https://zhuanlan.zhihu.com/p/102934213)
-
-[MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332)
-
-[MLIR python binding 简易模型建立](https://zhuanlan.zhihu.com/p/103524807)
-
-[MLIR python binding -- pybind11](https://zhuanlan.zhihu.com/p/103836518)
-
-[将pybind11示例嵌入到MLIR中](https://zhuanlan.zhihu.com/p/104717000)
-
-[基于CMake构建系统的MLIR Example扩展](https://zhuanlan.zhihu.com/p/104948867)
-
-版权、资料来源及致谢备注：
-
-报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/)
-
-### LLVM后端简介-20200212-实习生陈影
-
-报告题目：LLVM后端简介
-
-报告时间：20200212
-
-报告人：陈影
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：LLVM工具链的构建、LLVM后端简介、TableGen等
-
-幻灯片或资料链接：
-
-http://llvm.org/docs/CodeGenerator.html
-
-http://llvm.org/docs/WritingAnLLVMBackend.html
-
-http://llvm.org/docs/TableGen/index.html
-
-https://zhuanlan.zhihu.com/llvm-clang
-
-视频或专栏文章链接（如果有的话）：
-
-TODO B站链接 / 知乎链接 / 腾讯视频链接
-
-（模版，PR时请复制粘贴一份到上面）
-
-（模版内容开始）
 
 ### OpenCV for RISC-V 第二课-20200212-实习生郑志文
 
