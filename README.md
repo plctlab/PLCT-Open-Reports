@@ -1893,3 +1893,22 @@ PLCT上海开放日报告
 
 [pdf](20210626-王翔-Introduce_RISC-V_debugging_and_openocd.pdf)
 [pdf](20210626-王翔-opensbi_source_code_analysis.pdf)
+
+### 20210728 - Introduction to shecc
+
+
+报告题目：shecc介绍
+
+报告时间：20210728
+
+报告人：邵世通
+
+隶属项目：技术分享
+
+内容简介：shecc编译流程介绍，qemu仿真模拟器原理介绍，Makefile文件介绍
+
+幻灯片或资料链接：
+
+[PDF](20210728-邵世通-shecc-introdution.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV1Vo4y1Q7B2)
