@@ -11,28 +11,7 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | 20200205 | 郑志文 | OpenCV for RISC-V 第一课 |[slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
 | 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
 | 20200205 | MLIR & python binding简介 | 张洪滨 | [1.初见MLIR](https://zhuanlan.zhihu.com/p/101879367) <br> [2.MLIR的法宝](https://zhuanlan.zhihu.com/p/102212806)<br> [3.MLIR的惊鸿一瞥](https://zhuanlan.zhihu.com/p/102395938)<br> [4.MLIR的生产线--Dialects和他的小伙伴们](https://zhuanlan.zhihu.com/p/102565792)<br> [5.MLIR Dialect的零件生产者 – TableGen](https://zhuanlan.zhihu.com/p/102727417) <br>[6.MLIR 开放项目 -- python bindings](https://zhuanlan.zhihu.com/p/102934213)<br> [7.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [8.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [9.MLIR python binding -- pybind11](https://zhuanlan.zhihu.com/p/103836518) <br>[10.将pybind11示例嵌入到MLIR中](https://zhuanlan.zhihu.com/p/104717000) <br> [11.基于CMake构建系统的MLIR Example扩展](https://zhuanlan.zhihu.com/p/104948867)<br> [12.MLIR python binding 简易模型建立](https://zhuanlan.zhihu.com/p/103524807)| [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
-
-
-
-### OpenCV for RISC-V 第二课-20200212-实习生郑志文
-
-报告题目：OpenCV for RISC-V 第二课：RISC-V目标平台介绍
-
-报告时间：20200212
-
-报告人：郑志文
-
-隶属项目：PLCT实验室OpenCV for RISC-V
-
-内容简介：介绍 Spike 和 RISCV-QEMU，介绍，安装，使用
-
-幻灯片或资料链接：
-
-https://github.com/zhengzhiwen123/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av88544146
+| 20200212 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | 郑志文 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
 
 ### 编译器入门-20200213-实习生王天然
 
