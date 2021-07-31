@@ -1806,3 +1806,21 @@ PLCT上海开放日报告
 [PDF](20210728-邵世通-shecc-introdution.pdf)
 
 [bilibili](https://www.bilibili.com/video/BV1Vo4y1Q7B2)
+
+### 20210730 - 在 arch linux 上搭建 RISC-V 轻量级用户模式开发环境
+
+报告题目：在 arch linux 上搭建 RISC-V 轻量级用户模式开发环境
+
+报告时间：20210730
+
+报告人：许东
+
+隶属项目：技术分享
+
+内容简介：在arch linux 上使用 QEMU 和 systemd nspawn 搭建 RISC V 轻量级用户模式开发环境
+
+幻灯片或资料链接：
+
+[PDF](20210730-在arch-linux上搭建RISC-V轻量级用户模式开发环境-许东.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV1Vg41177MQ)
