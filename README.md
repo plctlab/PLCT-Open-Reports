@@ -1824,3 +1824,5 @@ PLCT上海开放日报告
 [PDF](20210730-在arch-linux上搭建RISC-V轻量级用户模式开发环境-许东.pdf)
 
 [bilibili](https://www.bilibili.com/video/BV1Vg41177MQ)
+
+[文档](https://github.com/felixonmars/archriscv-packages/wiki/%E4%BD%BF%E7%94%A8Qemu%E5%92%8Csystemd-nspawn%E6%90%AD%E5%BB%BARISC-V%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%94%A8%E6%88%B7%E6%A8%A1%E5%BC%8F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
