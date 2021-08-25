@@ -1859,4 +1859,22 @@ PLCT上海开放日报告
 
 [bilibili](https://www.bilibili.com/video/BV1Rf4y1V7qn)
 
+### 20210823 - archbuild脚本解读 - 东东拷问现场 - Arch Linux 小队
 
+报告题目：archbuild脚本解读 - 东东拷问现场 - Arch Linux 小队
+
+报告时间：20210823
+
+报告人：东东
+
+隶属项目：技术分享
+
+内容简介：archbuild脚本解读-在 Arch Linux x86_64 环境中构建 RISC-V 架构的软件包
+
+幻灯片或资料链接：
+
+[PPT](https://docs.google.com/presentation/d/1lHZ9U-mrNWkTWubFfzpQshYmdzgJaIHg-Kgg__P0Mnw/edit?usp=sharing)
+
+[bilibili](https://www.bilibili.com/video/BV1aL411b7XC)
+
+[文档](https://github.com/felixonmars/archriscv-packages/wiki/archbuild-%E8%84%9A%E6%9C%AC%E8%A7%A3%E8%AF%BB)
