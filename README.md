@@ -1878,3 +1878,23 @@ PLCT上海开放日报告
 [bilibili](https://www.bilibili.com/video/BV1aL411b7XC)
 
 [文档](https://github.com/felixonmars/archriscv-packages/wiki/archbuild-%E8%84%9A%E6%9C%AC%E8%A7%A3%E8%AF%BB)
+
+### 20211025 - MLIR 的简介、实践、思考 - 张洪滨
+
+报告题目：MLIR 的简介、实践、思考
+
+报告时间：20211025
+
+报告人：张洪滨
+
+隶属项目：技术分享
+
+内容简介：
+- MLIR 简介 – 深度学习框架的发展|什么是MLIR
+- MLIR 实践 – MLIR 社区工作 | buddy-mlir
+- MLIR 思考 – 基于 MLIR 的深度学习框架
+
+幻灯片或资料链接：
+
+[PDF](20211025-MLIR的简介-实践-思考-zhanghongbin.pdf)
+
