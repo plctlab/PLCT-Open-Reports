@@ -656,13 +656,9 @@ https://www.bilibili.com/video/BV1QT4y1J7SJ
 
 内容简介：I2C 总线简介以及介绍如何基于基于树莓派开发 I2C 的裸机驱动。
 
-幻灯片或资料链接：
+[幻灯片或资料链接](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200617-dev-i2c-on-raspi-wangchen.pdf)
 
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV16p4y1D77b
+[视频或专栏文章链接](https://www.bilibili.com/video/BV16p4y1D77b)
 
 ### 20200619-QEMU_BIOS简介-陈嘉炜
 
@@ -1494,23 +1490,23 @@ https://www.bilibili.com/video/BV16Z4y1P72b
 
 ### 20210324 - RISC-V and Rust and Embedded - 车春池
 
-报告题目：RISC-V and Rust and Embedded  
+报告题目：RISC-V and Rust and Embedded
 
-报告时间：20210324  
+报告时间：20210324
 
-报告人：车春池  
+报告人：车春池
 
-隶属项目：技术报告面试  
+隶属项目：技术报告面试
 
-内容简介：浅谈 RISC-V 与 Rust 语言与嵌入式开发  
+内容简介：浅谈 RISC-V 与 Rust 语言与嵌入式开发
 
-幻灯片或资料链接：  
+幻灯片或资料链接：
 
-https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210324-riscv-Rust-embedded.pdf  
+https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210324-riscv-Rust-embedded.pdf
 
-视频或专栏文章链接：  
+视频或专栏文章链接：
 
-https://www.bilibili.com/video/BV1cK4y1M7cY  
+https://www.bilibili.com/video/BV1cK4y1M7cY
 
 ### 20210310 - GNU GCC Testsuite - 陈小欧
 
@@ -1767,11 +1763,12 @@ PLCT上海开放日报告
 
 隶属项目：RISCV公开课
 
-内容简介：介绍PLCT开设的基于RISC-V的操作系统线下公开课情况
+内容简介：介绍 PLCT 开设的基于 RISC-V 的操作系统线下公开课情况
 
-幻灯片或资料链接：
+[pdf](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20210626-wangchen-first-riscv-os-for-young-people)
 
-[pdf](20210626-汪辰-年轻人的第一个RISCV操作系统.pdf)
+[video](https://www.bilibili.com/video/BV1mv411J7T5?p=2)
+
 
 报告题目：Introduce RISC-V debugging、OpenOCD and OpenSBI
 
@@ -1878,6 +1875,60 @@ PLCT上海开放日报告
 [bilibili](https://www.bilibili.com/video/BV1aL411b7XC)
 
 [文档](https://github.com/felixonmars/archriscv-packages/wiki/archbuild-%E8%84%9A%E6%9C%AC%E8%A7%A3%E8%AF%BB)
+
+
+### 20210915 - JVM从入门到入门（三）
+
+报告题目：JVM从入门到入门
+
+报告时间：20210915
+
+报告人：章翔
+
+隶属项目：技术分享
+
+内容简介：关于JVM学习的入门知识分享
+
+幻灯片或资料链接：
+
+[bilibili](https://www.bilibili.com/video/BV1wL4y187ZX?spm_id_from=333.999.0.0)
+
+### 20210927 - Prefix Adder 入门 - Chisel 小队
+
+报告题目：Prefix Adder 入门
+
+报告时间：20210927
+
+报告人：罗云千
+
+隶属项目：Chisel
+
+内容简介：Prefix Adder 的原理介绍以及其 Chisel 实现
+
+幻灯片或资料链接：
+
+[pdf](20210927-罗云千-prefix-adder.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV17b4y1Y7dX)
+
+### 20211011 - Wallace 乘法器 - Chisel 小队
+
+报告题目：Wallace 乘法器
+
+报告时间：20210927
+
+报告人：罗云千
+
+隶属项目：Chisel
+
+内容简介：Wallace 乘法乘法器的原理以及如何使用 Booth Recoding 加速 Wallace 乘法器
+
+幻灯片或资料链接：
+
+[pdf](20211011-罗云千-wallace.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV17h411n7cD)
+
 
 ### 20211025 - MLIR 的简介、实践、思考 - 张洪滨
 
