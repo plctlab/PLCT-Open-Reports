@@ -1928,6 +1928,8 @@ PLCT上海开放日报告
 
 [bilibili](https://www.bilibili.com/video/BV17h411n7cD)
 
+### 20211024 - 2021 AOSP RISC-V 社区开源进展报告(OSDT Meetup)
+
 报告题目：2021 AOSP RISC-V 社区开源进展报告(OSDT Meetup)
 
 报告时间：20211024
