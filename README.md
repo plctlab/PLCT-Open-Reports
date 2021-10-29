@@ -1927,3 +1927,22 @@ PLCT上海开放日报告
 [pdf](20211011-罗云千-wallace.pdf)
 
 [bilibili](https://www.bilibili.com/video/BV17h411n7cD)
+
+报告题目：2021 AOSP RISC-V 社区开源进展报告(OSDT Meetup)
+
+报告时间：20211024
+
+报告人：汪辰，陆旭凡
+
+隶属项目：AOSP
+
+内容简介：2021 AOSP RISC-V 社区开源进展报告
+
+幻灯片或资料链接：
+
+[pdf1](./20211024-aosp-rv-community-status-report-wangchen.pdf)
+
+[pdf2](./20211024-aosp-riscv-toolchain-luxufan.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1QF411e7sZ)
+
