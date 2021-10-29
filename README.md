@@ -1930,6 +1930,7 @@ PLCT上海开放日报告
 [bilibili](https://www.bilibili.com/video/BV17h411n7cD)
 
 
+
 ### 20211025 - MLIR 的简介、实践、思考 - 张洪滨
 
 报告题目：MLIR 的简介、实践、思考
@@ -1948,4 +1949,23 @@ PLCT上海开放日报告
 幻灯片或资料链接：
 
 [PDF](20211025-MLIR的简介-实践-思考-zhanghongbin.pdf)
+
+### 报告题目：2021 AOSP RISC-V 社区开源进展报告(OSDT Meetup)
+
+报告时间：20211024
+
+报告人：汪辰，陆旭凡
+
+隶属项目：AOSP
+
+内容简介：2021 AOSP RISC-V 社区开源进展报告
+
+幻灯片或资料链接：
+
+[pdf1](./20211024-aosp-rv-community-status-report-wangchen.pdf)
+
+[pdf2](./20211024-aosp-riscv-toolchain-luxufan.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1QF411e7sZ)
+
 
