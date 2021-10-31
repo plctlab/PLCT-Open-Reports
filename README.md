@@ -1911,6 +1911,24 @@ PLCT上海开放日报告
 
 [bilibili](https://www.bilibili.com/video/BV17b4y1Y7dX)
 
+### 20210929 - TableGen入门与实战 - 实习生 刘子康
+
+报告题目：TableGen入门与实战
+
+报告时间：20210929
+
+报告人：刘子康
+
+隶属项目：LLVM
+
+内容简介：简要介绍LLVM中TableGen的语法特性和用法用途。
+
+幻灯片或资料链接：
+
+[pdf](20210929-刘子康-TableGen入门与实战.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV1Tr4y127EH)
+
 ### 20211011 - Wallace 乘法器 - Chisel 小队
 
 报告题目：Wallace 乘法器
