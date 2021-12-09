@@ -1986,4 +1986,22 @@ PLCT上海开放日报告
 
 [在线视频回放](https://www.bilibili.com/video/BV1QF411e7sZ)
 
+### 20210929 - Register Allocation in LLVM - 实习生 史历
+
+报告题目：Register Allocation in LLVM
+
+报告时间：20211208
+
+报告人：史历
+
+隶属项目：LLVM
+
+内容简介：LLVM 后端寄存器分配算法及其实现（Basic 与 Greedy 寄存器分配器）
+
+幻灯片或资料链接：
+
+[pdf](20211208-史历-Register-Allocation-in-LLVM.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV1pF411z7Ry)
+
 
