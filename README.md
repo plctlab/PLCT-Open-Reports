@@ -2005,3 +2005,20 @@ PLCT上海开放日报告
 [bilibili](https://www.bilibili.com/video/BV1pF411z7Ry)
 
 
+### 20211218 - OSDT2021 AOSP for RISC-V 社区开源进展报告(OSDTConf2021)
+
+报告题目：OSDT2021 AOSP for RISC-V 社区开源进展报告
+
+报告时间：20211218
+
+报告人：汪辰
+
+隶属项目：AOSP
+
+内容简介：AOSP for RISC-V 社区开源进展报告
+
+幻灯片或资料链接：
+
+[pdf](./20211218-osdt2021-aosp-rv-wangchen.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1Sg411w7Le)
