@@ -2022,3 +2022,25 @@ PLCT上海开放日报告
 [pdf](./20211218-osdt2021-aosp-rv-wangchen.pdf)
 
 [在线视频回放](https://www.bilibili.com/video/BV1Sg411w7Le)
+
+### 20211224 - Cache-Coherence-in-Gem5  - 实习生 杨帆
+
+报告题目：Cache-Coherence-in-Gem5
+
+报告时间：20211224
+
+报告人：杨帆
+
+隶属项目：gem5小组
+
+内容简介：
+
++ 介绍了gem5中一个经典的缓存一致性系统例子
++ “classic cache”设计中的问题
++ ruby介绍
+
+幻灯片或资料链接：
+
+[pdf](20211224-杨帆-CC-in-gem5.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1NS4y1M7Je?from=search&seid=5929327652609730656&spm_id_from=333.337.0.0)
