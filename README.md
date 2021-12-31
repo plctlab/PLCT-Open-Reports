@@ -2023,6 +2023,29 @@ PLCT上海开放日报告
 
 [在线视频回放](https://www.bilibili.com/video/BV1Sg411w7Le)
 
+
+
+### 20211222 - GP Relaxation in LLD - 实习生 乌鑫龙
+
+报告题目：GP Relaxation in LLD
+
+报告时间：20211222
+
+报告人：乌鑫龙
+
+隶属项目：LLVM小队
+
+内容简介：
+
++ 介绍RISCV中GP relaxation的基本原理
++ 实现一个简单的GP relaxation的指令优化
+
+幻灯片或资料链接：
+
+[pdf](20211222-乌鑫龙-GP-Relaxation-in-LLD.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1gi4y1R7W5)
+
 ### 20211224 - Cache-Coherence-in-Gem5  - 实习生 杨帆
 
 报告题目：Cache-Coherence-in-Gem5
