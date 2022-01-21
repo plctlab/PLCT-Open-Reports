@@ -1986,4 +1986,106 @@ PLCT上海开放日报告
 
 [在线视频回放](https://www.bilibili.com/video/BV1QF411e7sZ)
 
+### 20210929 - Register Allocation in LLVM - 实习生 史历
 
+报告题目：Register Allocation in LLVM
+
+报告时间：20211208
+
+报告人：史历
+
+隶属项目：LLVM
+
+内容简介：LLVM 后端寄存器分配算法及其实现（Basic 与 Greedy 寄存器分配器）
+
+幻灯片或资料链接：
+
+[pdf](20211208-史历-Register-Allocation-in-LLVM.pdf)
+
+[bilibili](https://www.bilibili.com/video/BV1pF411z7Ry)
+
+
+### 20211218 - OSDT2021 AOSP for RISC-V 社区开源进展报告(OSDTConf2021)
+
+报告题目：OSDT2021 AOSP for RISC-V 社区开源进展报告
+
+报告时间：20211218
+
+报告人：汪辰
+
+隶属项目：AOSP
+
+内容简介：AOSP for RISC-V 社区开源进展报告
+
+幻灯片或资料链接：
+
+[pdf](./20211218-osdt2021-aosp-rv-wangchen.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1Sg411w7Le)
+
+
+
+### 20211222 - GP Relaxation in LLD - 实习生 乌鑫龙
+
+报告题目：GP Relaxation in LLD
+
+报告时间：20211222
+
+报告人：乌鑫龙
+
+隶属项目：LLVM小队
+
+内容简介：
+
++ 介绍RISCV中GP relaxation的基本原理
++ 实现一个简单的GP relaxation的指令优化
+
+幻灯片或资料链接：
+
+[pdf](20211222-乌鑫龙-GP-Relaxation-in-LLD.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1gi4y1R7W5)
+
+### 20211224 - Cache-Coherence-in-Gem5  - 实习生 杨帆
+
+报告题目：Cache-Coherence-in-Gem5
+
+报告时间：20211224
+
+报告人：杨帆
+
+隶属项目：gem5小组
+
+内容简介：
+
++ 介绍了gem5中一个经典的缓存一致性系统例子
++ “classic cache”设计中的问题
++ ruby介绍
+
+幻灯片或资料链接：
+
+[pdf](20211224-杨帆-CC-in-gem5.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1NS4y1M7Je?from=search&seid=5929327652609730656&spm_id_from=333.337.0.0)
+
+### 20220112 - CanoKey - 郑鈜壬
+
+报告题目：CanoKey 应用、代码与实现
+
+报告时间：20220112
+
+报告人：郑鈜壬
+
+隶属项目：Chisel 小组
+
+内容简介：
+
++ CanoKey 应用与实例
++ CanoKey 协议栈与代码组织
++ 讨论：用 RISC-V 实现 CanoKey，需要什么
+
+幻灯片或资料链接：
+
+[pdf](./20220112-郑鈜壬-canokey.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1BF411v7qt)
