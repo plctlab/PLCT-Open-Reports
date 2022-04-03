@@ -11,7 +11,7 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | 20200213 | 张江涛 | V8解释器字节码代码浅析 |[slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [video](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
 | 20200213 | 王天然 | 编译器入门 | [slides](https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf) | - |N/A |
 | 20200212 | 郑志文 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
-| 20200212 | 王鹏 | RISCV后端和llvm-mc介绍 第一课 | [slides](https://github.com/isrc-cas/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88546051)| 介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍 |
+| 20200212 | 王鹏 | RISCV后端和llvm-mc介绍 第一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200212-RISCV%E5%92%8Cllvm-mc%E4%BB%8B%E7%BB%8D-wangpeng.pdf) | [video](https://www.bilibili.com/video/av88546051)| 介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍 |
 | 20200205 | 郑志文 | OpenCV for RISC-V 第一课 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
 | 20200205 | 陈影 | 玄铁C910玄铁C910初次接触 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
 | 20200205 | 张洪滨 | MLIR & python binding简介 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
