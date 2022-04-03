@@ -8,32 +8,16 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 |日期|题目|报告人|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 |
-| 20200213 | 张江涛 | V8解释器字节码代码浅析 |[slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [links](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
-| 20200205 | 郑志文 | OpenCV for RISC-V 第一课 |[slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
-| 20200205 | 玄铁C910玄铁C910初次接触 | 陈影 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
-| 20200205 | MLIR & python binding简介 | 张洪滨 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
-| 20200212 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | 郑志文 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
-| 20200213 | 编译器入门 | 王天然 | [slides](https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf) | - |N/A |
+| 20200213 | 张江涛 | V8解释器字节码代码浅析 |[slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [video](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
+| 20200213 | 王天然 | 编译器入门 | [slides](https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf) | - |N/A |
+| 20200212 | 郑志文 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
+| 20200212 | 王鹏 | RISCV后端和llvm-mc介绍 第一课 | [slides](https://github.com/isrc-cas/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88546051)| 介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍 |
+| 20200205 | 郑志文 | OpenCV for RISC-V 第一课 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
+| 20200205 | 陈影 | 玄铁C910玄铁C910初次接触 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
+| 20200205 | 张洪滨 | MLIR & python binding简介 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
 
-### RISCV后端和llvm-mc介绍 第一课-20200212-实习生王鹏
 
-报告题目：RISCV后端和llvm-mc介绍
 
-报告时间：20200212
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍。
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av88546051
 
 ### 添加llvm-mc命令行选项 第二课-20200219-实习生王鹏
 
