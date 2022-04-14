@@ -8,7 +8,17 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 |日期|题目|报告人|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 |
-| 20200213 | 张江涛 | V8解释器字节码代码浅析 |[slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [video](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
+| 20200527 | 王鹏 | RISC-V rvv v0.9 v0.8 草案对比 第十一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200527-riscv-v-spec0.9%E5%92%8C0.8%E5%AF%B9%E6%AF%94-wangpeng.pdf) | [video](https://www.bilibili.com/video/av413293037/)| N/A |
+| 20200513 | 王鹏 | clang和rvv benchmark 第十课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-clang%E5%92%8Crvv%20benchmark-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV13z4y1d7zK)| N/A |
+| 20200430 | 王鹏 | LLVM测试框架、后端代码实例 第九课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200429-LLVM%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E3%80%81%E5%90%8E%E7%AB%AF%E4%BB%A3%E7%A0%81%E5%AE%9E%E4%BE%8B-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV17f4y1m7By)| N/A |
+| 20200422 | 王鹏 | rvv-llvm学习1 第八课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200422-rvv-llvm%E5%AD%A6%E4%B9%A01-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV1Df4y1S7aS)| N/A |
+| 20200415 | 王鹏 | rvv和玄铁c910对比总结 第七课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200415-rvv%E5%92%8C%E7%8E%84%E9%93%81c910%E5%AF%B9%E6%AF%94%E6%80%BB%E7%BB%93-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV1YA411b78K)| N/A |
+| 20200401 | 王鹏 | 玄铁C910指令扩展总结 第六课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200401-%E7%8E%84%E9%93%81C910%E6%8C%87%E4%BB%A4%E6%89%A9%E5%B1%95%E6%80%BB%E7%BB%93-wangpeng.pdf) | [video](https://www.bilibili.com/video/av455087604)| N/A |
+| 20200311 | 王鹏 | c910扩展指令集添加 第五课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200311-c910%E6%89%A9%E5%B1%95%E6%8C%87%E4%BB%A4%E9%9B%86%E6%B7%BB%E5%8A%A0-wangpeng.pdf) | [video](https://www.bilibili.com/video/av95568973)| N/A |
+| 20200304 | 王鹏 | march=c910和论文分享 第四课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200304-march%3Dc910%E5%92%8C%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB-wangpeng.pdf) | [video](https://www.bilibili.com/video/av93642478)| N/A |
+| 20200226 | 王鹏 | 添加mcpu=C910和RISCV后端介绍 第三课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200225-%E6%B7%BB%E5%8A%A0mcpu%3DC910%E5%92%8CRISCV%E5%90%8E%E7%AB%AF%E4%BB%8B%E7%BB%8D-wangpeng.pdf) | [video](https://www.bilibili.com/video/av91874783)| N/A |
+| 20200219 | 王鹏 | 添加llvm-mc命令行选项 第二课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200219-%E6%B7%BB%E5%8A%A0llvm-mc%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%89%E9%A1%B9-wangpeng.pdf) | [video](https://www.bilibili.com/video/av90145259)| 添加llvm-mc命令行选项，mcpu的属性mattr用tablegen语言的部分定义 |
+| 20200213 | 张江涛 | V8解释器字节码代码浅析 | [slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [video](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
 | 20200213 | 王天然 | 编译器入门 | [slides](https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf) | - |N/A |
 | 20200212 | 郑志文 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
 | 20200212 | 王鹏 | RISCV后端和llvm-mc介绍 第一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200212-RISCV%E5%92%8Cllvm-mc%E4%BB%8B%E7%BB%8D-wangpeng.pdf) | [video](https://www.bilibili.com/video/av88546051)| 介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍 |
@@ -19,205 +29,6 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 
 
 
-### 添加llvm-mc命令行选项 第二课-20200219-实习生王鹏
-
-报告题目：添加llvm-mc命令行选项
-
-报告时间：20200219
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：添加llvm-mc命令行选项，mcpu的属性mattr用tablegen语言的部分定义
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av90145259
-
-### 添加mcpu=C910和RISCV后端介绍 第三课-20200226-实习生王鹏
-
-报告题目：添加mcpu=C910和RISCV后端介绍
-
-报告时间：20200226
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：添加mcpu=C910和RISCV后端介绍（2）
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av91874783
-
-### march=c910和论文分享 第四课-20200304-实习生王鹏
-
-报告题目：march=c910和论文分享
-
-报告时间：20200304
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：添加march=c910和论文分享
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av93642478
-
-### c910扩展指令集添加 第五课-20200311-实习生王鹏
-
-报告题目：c910扩展指令集添加
-
-报告时间：20200311
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：c910扩展指令集添加
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av95568973
-
-### 玄铁C910指令扩展总结 第六课-20200401-实习生王鹏
-
-报告题目：玄铁C910指令扩展总结
-
-报告时间：20200401
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：玄铁C910指令扩展总结
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av455087604
-
-### rvv和玄铁c910对比总结 第七课-20200415-实习生王鹏
-
-报告题目：rvv和玄铁c910对比总结
-
-报告时间：20200415
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：rvv和玄铁c910对比总结
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1YA411b78K
-
-### rvv-llvm学习1 第八课-20200422-实习生王鹏
-
-报告题目：rvv-llvm学习1
-
-报告时间：20200422
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：rvv-llvm学习1
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1Df4y1S7aS
-
-### LLVM测试框架、后端代码实例 第九课-20200430-实习生王鹏
-
-报告题目：LLVM测试框架、后端代码实例
-
-报告时间：20200430
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：LLVM测试框架、后端代码实例
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV17f4y1m7By
-
-### clang和rvv benchmark 第十课-20200513-实习生王鹏
-
-报告题目：clang和rvv benchmark
-
-报告时间：20200513
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：clang和rvv benchmark
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV13z4y1d7zK
-
-### RISC-V rvv v0.9 v0.8 草案对比 第十一课-20200527-实习生王鹏
-
-报告题目：RISC-V rvv v0.9 v0.8 草案对比
-
-报告时间：20200527
-
-报告人：王鹏
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：RISC-V rvv v0.9 v0.8 草案对比
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av413293037/
 
 ### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
 
