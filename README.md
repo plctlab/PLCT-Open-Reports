@@ -2153,6 +2153,125 @@ https://www.bilibili.com/video/BV1GF411v7Ch?spm_id_from=333.999.0.0
 https://github.com/plctlab/PLCT-Open-Reports/
 
 
+### 20220323 - 关于CMake和C++11的学习汇报 - 王壹
+
+报告题目：CMake和C++11的学习汇报
+
+报告时间：20220323
+
+报告人：王壹
+
+隶属项目：学习汇报
+
+内容简介：介绍在实习期间学习的关于CMake和C++11的相关知识。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+
+### 20220330 - 关于移动语义和QT的学习汇报 - 王壹
+
+报告题目：移动语义和QT的学习汇报
+
+报告时间：20220330
+
+报告人：王壹
+
+隶属项目：学习汇报
+
+内容简介：介绍在实习期间学习的关于移动语义和QT的相关知识。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+
+### 20220406 - Coelacanthus - 如何给火狐（Firefox）贡献代码
+
+报告题目：如何给火狐（Firefox）贡献代码
+
+报告时间：20220406
+
+报告人：Coelacanthus
+
+隶属项目：Arch Linux 小队
+
+内容简介：介绍如何给火狐（Firefox）贡献代码。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1fY41177mf
+
+
+### 20220406 - Coelacanthus - 让编程语言爱上RISC-V：以Crystal为例
+
+报告题目：让编程语言爱上RISC-V：以Crystal为例
+
+报告时间：20220406
+
+报告人：Coelacanthus
+
+隶属项目：Arch Linux 小队
+
+内容简介：介绍如何将一门编程语言移植到 RISC-V。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV11F41137Xz
+
+
+### 20220406 - CMake立大功：glibc更新引发的陈年旧案 - XieJiSS
+
+报告题目：CMake立大功：glibc更新引发的陈年旧案
+
+报告时间：20220406
+
+报告人：XieJiSS (Pan RZ)
+
+隶属项目：Arch Linux 小队
+
+内容简介：关于我们如何与 RV64 gcc subword atomic 打交道
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://blog.jiejiss.com/A-RISC-V-gcc-pitfall-revealed-by-a-glibc-update/
+
+https://www.bilibili.com/video/BV1Vq4y1a7Ny
+
 ### 20200205-MLIR
 
 [1.初见MLIR](https://zhuanlan.zhihu.com/p/101879367) <br> [2.MLIR的法宝](https://zhuanlan.zhihu.com/p/102212806)<br> [3.MLIR的惊鸿一瞥](https://zhuanlan.zhihu.com/p/102395938)<br> [4.MLIR的生产线--Dialects和他的小伙伴们](https://zhuanlan.zhihu.com/p/102565792)<br> [5.MLIR Dialect的零件生产者 – TableGen](https://zhuanlan.zhihu.com/p/102727417) <br>[6.MLIR 开放项目 -- python bindings](https://zhuanlan.zhihu.com/p/102934213)<br> [7.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [8.MLIR python bindings的问题&Dialect Operation build方法](https://zhuanlan.zhihu.com/p/103102332) <br> [9.MLIR python binding -- pybind11](https://zhuanlan.zhihu.com/p/103836518) <br>[10.将pybind11示例嵌入到MLIR中](https://zhuanlan.zhihu.com/p/104717000) <br> [11.基于CMake构建系统的MLIR Example扩展](https://zhuanlan.zhihu.com/p/104948867)<br> [12.MLIR python binding 简易模型建立](https://zhuanlan.zhihu.com/p/103524807)
+
+
+### 20220406 - CLIC调研报告-史玉龙
+
+报告题目：关于CLIC的调研报告
+
+报告时间：20220406
+
+报告人：史玉龙
+
+隶属项目：gnu-toolchain 小队
+
+内容简介：介绍RISCV架构的CLIC中断管理
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1TS4y1P7Tv?spm_id_from=333.851.dynamic.content.click
