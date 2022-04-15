@@ -5,23 +5,35 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 ## 报告的索引：
 
 ---------------------------------------------
-|日期|题目|报告人|slides|video|备注|
+|日期|报告人|题目|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 |
 | 20200527 | 王鹏 | RISC-V rvv v0.9 v0.8 草案对比 第十一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200527-riscv-v-spec0.9%E5%92%8C0.8%E5%AF%B9%E6%AF%94-wangpeng.pdf) | [video](https://www.bilibili.com/video/av413293037/)| N/A |
+| 20200513 | 陆亚涵 | V8测试流程介绍以及指令选择单元测试源码分析 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-V8%E6%B5%8B%E8%AF%95%E6%B5%81%E7%A8%8B%E4%BB%8B%E7%BB%8D%E4%BB%A5%E5%8F%8A%E6%8C%87%E4%BB%A4%E9%80%89%E6%8B%A9%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-luyahan.pptx) | - | N/A |
 | 20200513 | 王鹏 | clang和rvv benchmark 第十课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-clang%E5%92%8Crvv%20benchmark-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV13z4y1d7zK)| N/A |
+| 20200513 | 张爱珩 | 阅读 CDT plugins 插件代码 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-plugins%20code%20analysis-zhangaiheng.pdf) | - | Eclipse CDT插件（gcc交叉编译工具链的实现）代码阅读分析 |
+| 20200506 | 陆旭凡 | 将quickjs翻译到riscv平台可以执行的文件 | [slides](https://github.com/Helen-zah/PLCT-Open-Reports/blob/master/20200506-quickjs%E7%BF%BB%E8%AF%91%E5%88%B0riscv%E5%B9%B3%E5%8F%B0-luxufan.pdf) | - | 使用riscv交叉编译器将quickjs的源码编译到riscv平台可执行的二进制文件，并运行出benchmark结果 |
 | 20200430 | 王鹏 | LLVM测试框架、后端代码实例 第九课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200429-LLVM%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E3%80%81%E5%90%8E%E7%AB%AF%E4%BB%A3%E7%A0%81%E5%AE%9E%E4%BE%8B-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV17f4y1m7By)| N/A |
+| 20200429 | 张爱珩 | 编写、导出及安装Eclipse插件 | [slides](https://github.com/Helen-zah/PLCT-Open-Reports/blob/master/20200429-%E5%88%9D%E8%AF%95%E7%BC%96%E5%86%99Eclipse%E6%8F%92%E4%BB%B6-zhangaiheng.pdf) | - | 开发一个Eclipse插件并投入使用的基本流程 |
 | 20200422 | 王鹏 | rvv-llvm学习1 第八课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200422-rvv-llvm%E5%AD%A6%E4%B9%A01-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV1Df4y1S7aS)| N/A |
+| 20200416 | 张爱珩 | GNU MCU Eclipse 及插件的安装和配置 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200416-%E5%AE%89%E8%A3%85GNU%20MCU%20Eclipse-zhangaiheng.pdf) | - | 开发基于RISC-V架构的IDE所需环境的准备工作 |
 | 20200415 | 王鹏 | rvv和玄铁c910对比总结 第七课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200415-rvv%E5%92%8C%E7%8E%84%E9%93%81c910%E5%AF%B9%E6%AF%94%E6%80%BB%E7%BB%93-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV1YA411b78K)| N/A |
 | 20200401 | 王鹏 | 玄铁C910指令扩展总结 第六课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200401-%E7%8E%84%E9%93%81C910%E6%8C%87%E4%BB%A4%E6%89%A9%E5%B1%95%E6%80%BB%E7%BB%93-wangpeng.pdf) | [video](https://www.bilibili.com/video/av455087604)| N/A |
+| 20200401 | 陈家友 | 近期Assember工作总结 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200401-Assember-%E9%99%88%E5%AE%B6%E5%8F%8B_V2.pdf) | - | N/A |
 | 20200311 | 王鹏 | c910扩展指令集添加 第五课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200311-c910%E6%89%A9%E5%B1%95%E6%8C%87%E4%BB%A4%E9%9B%86%E6%B7%BB%E5%8A%A0-wangpeng.pdf) | [video](https://www.bilibili.com/video/av95568973)| N/A |
+| 20200311 | 张爱珩 | 基于RISC-V的IDEs的调研 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200311-%E8%B0%83%E7%A0%94IDEs-zhangaiheng.pdf) | - | 四种支持RISC-V架构的IDE调研 |
 | 20200304 | 王鹏 | march=c910和论文分享 第四课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200304-march%3Dc910%E5%92%8C%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB-wangpeng.pdf) | [video](https://www.bilibili.com/video/av93642478)| N/A |
+| 20200226 | 郑志文 | OpenCV for RISC-V 第四课：RISC-V编译工具链GCC介绍 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200226-RISC-V%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E9%93%BEGCC%E4%BB%8B%E7%BB%8D-zhengzhiwen.pdf) | - | RISC-V编译工具链GCC种类及参数的介绍 |
 | 20200226 | 王鹏 | 添加mcpu=C910和RISCV后端介绍 第三课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200225-%E6%B7%BB%E5%8A%A0mcpu%3DC910%E5%92%8CRISCV%E5%90%8E%E7%AB%AF%E4%BB%8B%E7%BB%8D-wangpeng.pdf) | [video](https://www.bilibili.com/video/av91874783)| N/A |
+| 20200219 | 郑志文 | OpenCV for RISC-V 第三课：OpenCV编译相关文件讲解 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200219-OpenCV%E7%BC%96%E8%AF%91%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6%E8%AE%B2%E8%A7%A3-zhengzhiwen.pdf) | - | N/A |
 | 20200219 | 王鹏 | 添加llvm-mc命令行选项 第二课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200219-%E6%B7%BB%E5%8A%A0llvm-mc%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%89%E9%A1%B9-wangpeng.pdf) | [video](https://www.bilibili.com/video/av90145259)| 添加llvm-mc命令行选项，mcpu的属性mattr用tablegen语言的部分定义 |
+| 20200219 | 张爱珩 | 准备FPGA开发的环境工作总结 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200219-%E5%AE%9E%E7%8E%B0FPGA%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C-zhangaiheng.pdf) | - | 在FPGA上实现RISC-V所需环境的准备工作 |
+| 20200213 | 王英恺 | 虚拟机简介 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200213-%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AE%80%E4%BB%8B-wangyingkai.pdf) | - | N/A |
 | 20200213 | 张江涛 | V8解释器字节码代码浅析 | [slides](20200213-Bytecode_of_Ignition-zhangjiangtao.pdf) | [video](https://www.bilibili.com/video/av88702574)| V8字节码源码解析 |
 | 20200213 | 王天然 | 编译器入门 | [slides](https://github.com/wtr-math/PLCT-Open-Reports/blob/master/20200213-%E7%BC%96%E8%AF%91%E5%99%A8%E5%85%A5%E9%97%A8-Wangtianran.pdf) | - |N/A |
 | 20200212 | 郑志文 | OpenCV for RISC-V 第二课：RISC-V目标平台介绍 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av88544146)|N/A |
 | 20200212 | 王鹏 | RISCV后端和llvm-mc介绍 第一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200212-RISCV%E5%92%8Cllvm-mc%E4%BB%8B%E7%BB%8D-wangpeng.pdf) | [video](https://www.bilibili.com/video/av88546051)| 介绍 llvm-mc相应的命令行选项，RISCV后端结合源代码介绍 |
+| 20200212 | 张爱珩 | 关于在FPGA上跑通RISC-V的调研 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200212-FPGA-zhangaiheng.pdf) | - | 在FPGA上实现RISC-V所需硬件资源及开发工作 |
 | 20200205 | 郑志文 | OpenCV for RISC-V 第一课 | [slides](https://github.com/zhengzhiwen123/PLCT-Open-Reports) | [links](https://github.com/isrc-cas/opencv-riscv)|N/A |
 | 20200205 | 陈影 | 玄铁C910玄铁C910初次接触 | [slides](https://github.com/punkyc/PLCT-Open-Reports) | [video](https://www.bilibili.com/video/av86918335)|N/A |
 | 20200205 | 张洪滨 | MLIR & python binding简介 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
@@ -55,64 +67,6 @@ TODO B站链接 / 知乎链接 / 腾讯视频链接
 TODO 致谢内容应当放在幻灯片中。
 
 （模版内容结束）
-### 虚拟机简介-20200213-实习生王英恺
-
-报告题目：虚拟机简介
-
-报告时间：20200213
-
-报告人：王英恺
-
-隶属项目：V8 for RISC-V
-
-内容简介：虚拟机简介
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av88703649
-
-### OpenCV for RISC-V 第三课-20200219-实习生郑志文
-
-报告题目：OpenCV for RISC-V 第三课：OpenCV编译相关文件讲解
-
-报告时间：20200219
-
-报告人：郑志文
-
-隶属项目：PLCT实验室OpenCV for RISC-V
-
-内容简介：OpenCV编译相关文件讲解
-
-幻灯片或资料链接：
-
-https://github.com/zhengzhiwen123/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av90145856
-
-### OpenCV for RISC-V 第四课-20200226-实习生郑志文
-
-报告题目：OpenCV for RISC-V 第四课：RISC-V编译工具链GCC介绍
-报告时间：20200226
-
-报告人：郑志文
-
-隶属项目：PLCT实验室OpenCV for RISC-V
-
-内容简介：RISC-V编译工具链GCC种类及参数的介绍
-
-幻灯片或资料链接：
-
-https://github.com/zhengzhiwen123/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/av91871102
 
 ### MLIR Toy Tutorial 概述-20200226-研究生张洪滨
 
@@ -159,147 +113,7 @@ https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
 版权、资料来源及致谢备注：
 
 报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/docs/Tutorials/Toy/)
-### 20200401-Assember-陈家友
-报告题目：近期Assember工作总结
 
-报告时间：20200401
-
-报告人：陈家友
-
-隶属项目：PLCT实验室V8
-
-内容简介：V8相关知识简介及后续工作介绍
-
-幻灯片或资料链接：
-
-https://github.com/chenjy9581/PLCT-Open-Reports
-
-
-### FPGA调研-20200212-张爱珩
-
-报告题目：关于在FPGA上跑通RISC-V的调研
-
-报告时间：20200212
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室FPGA开发
-
-内容简介：在FPGA上实现RISC-V所需硬件资源及开发工作
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
-
-### 实现FPGA的准备工作-20200219-张爱珩
-
-报告题目：准备FPGA开发的环境工作总结
-
-报告时间：20200219
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室FPGA开发
-
-内容简介：在FPGA上实现RISC-V所需环境的准备工作
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
-
-### 调研IDEs-20200311-张爱珩
-
-报告题目：基于RISC-V的IDEs的调研
-
-报告时间：20200311
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室IDE开发
-
-内容简介：四种支持RISC-V架构的IDE调研
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
-
-### 安装 GNU MCU Eclipse-20200416-张爱珩
-
-报告题目：GNU MCU Eclipse 及插件的安装和配置
-
-报告时间：20200416
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室IDE开发
-
-内容简介：开发基于RISC-V架构的IDE所需环境的准备工作
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
-
-### 初试编写Eclipse插件-20200416-张爱珩
-
-报告题目：编写、导出及安装Eclipse插件
-
-报告时间：20200429
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室IDE开发
-
-内容简介：开发一个Eclipse插件并投入使用的基本流程
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
-
-### 20200506-quickjs翻译到riscv平台的尝试-实习生陆旭凡
-报告题目：将quickjs翻译到riscv平台可以执行的文件
-
-报告时间：20200506
-
-报告人： 陆旭凡
-
-隶属项目： PLCT实验室quickjs项目
-
-内容简介： 使用riscv交叉编译器将quickjs的源码编译到riscv平台可执行的二进制文件，并运行出benchmark结果
-
-幻灯片或资料链接：
-
-https://github.com/chenjy9581/PLCT-Open-Reports
-
-### 20200513--V8测试流程介绍以及指令选择单元测试源码分析-陆亚涵
-报告题目：V8测试流程介绍以及指令选择单元测试源码分析
-
-报告时间：20200513
-
-报告人： 陆亚涵
-
-隶属项目： PLCT实验室V8项目
-
-内容简介： V8测试流程介绍以及指令选择单元测试源码分析
-
-幻灯片或资料链接：
-
-https://github.com/chenjy9581/PLCT-Open-Reports
-
-### Plugins code analysis-20200513-张爱珩
-
-报告题目：阅读 CDT plugins 插件代码
-
-报告时间：20200513
-
-报告人：张爱珩
-
-隶属项目：PLCT实验室IDE开发
-
-内容简介：Eclipse CDT插件（gcc交叉编译工具链的实现）代码阅读分析
-
-幻灯片或资料链接：
-
-https://github.com/Helen-zah/PLCT-Open-Reports
 
 ### 20200527--V8指令选择中的优化-陆亚涵
 报告题目：V8指令选择中的优化
