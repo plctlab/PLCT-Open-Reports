@@ -8,6 +8,15 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 |日期|报告人|题目|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 |
+| 20200624 | 王萌 | Spike-fesvr及外部设备实现分析 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200624-Spike-fesvr%E5%8F%8A%E5%A4%96%E9%83%A8%E8%AE%BE%E5%A4%87%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90-wangmeng.pdf) | [video](https://www.bilibili.com/video/BV1ET4y1J7As)| 介绍qemu_bios工具 |
+| 20200619 | 陈嘉炜 | QEMU_BIOS简介 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200619-QEMU%20BIOS%E7%AE%80%E4%BB%8B.pptx) | [video](https://www.bilibili.com/video/BV1xV411k7mr?from=search&seid=5602113976955164489)| 介绍qemu_bios工具 |
+| 20200617 | 汪辰 | 基于树莓派开发I2C裸机驱动 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200617-%E5%9F%BA%E4%BA%8E%E6%A0%91%E8%8E%93%E6%B4%BE%E5%BC%80%E5%8F%91I2C%E8%A3%B8%E6%9C%BA%E9%A9%B1%E5%8A%A8-%E6%B1%AA%E8%BE%B0.pdf) | [video](https://www.bilibili.com/video/BV16p4y1D77b)| I2C 总线简介以及介绍如何基于基于树莓派开发 I2C 的裸机驱动 |
+| 20200617 | 王萌 | Spike 代码框架及具体实现分析 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200617-Spike%20%E4%BB%A3%E7%A0%81%E6%A1%86%E6%9E%B6%E5%8F%8A%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0%E5%88%86%E6%9E%90-wangmeng.pdf) | [video](https://www.bilibili.com/video/BV1QT4y1J7SJ)| N/A |
+| 20200610 | 杨文章 | v8中snapshot的代码分析 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200610-v8%E4%B8%ADsnapshot%E7%9A%84%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90-%E6%9D%A8%E6%96%87%E7%AB%A0.pptx) | [video](https://www.bilibili.com/video/BV1UV411r7Nq)| v8项目中mksnapshot的机制分析 |
+| 20200604 | 张洪滨 | 使用OpenROAD构建蜂鸟E203处理器核GDS | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200604-%E4%BD%BF%E7%94%A8OpenROAD%E6%9E%84%E5%BB%BA%20%E8%9C%82%E9%B8%9FE203%E5%A4%84%E7%90%86%E5%99%A8%E6%A0%B8GDS-zhanghongbin.pdf) | [video](https://www.bilibili.com/video/BV17C4y1a7Pv)| 完成蜂鸟E203处理器核从RTL代码到GDS二进制文件的全流程设计 |
+| 20200527 | 邹小芳 | V8移植简介 | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/20200527-V8%E7%A7%BB%E6%A4%8D%E7%AE%80%E4%BB%8B-zouxiaofang.pdf) | [video](https://www.bilibili.com/video/BV11K4y1t76G)| N/A |
+| 20200527 | 杨文章 | Dive into v8 torque | [slides](https://github.com/amyzxf/PLCT-Open-Reports/blob/master/dive-into-torque.pdf) | [video](https://www.bilibili.com/video/BV1JK411s7Pv)| v8项目中torque语言的编译器源码分析 |
+| 20200527 | 陆亚涵 | V8指令选择中的优化 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200527-v8%E6%8C%87%E4%BB%A4%E9%80%89%E6%8B%A9%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8C%96.pdf) | - | N/A |
 | 20200527 | 王鹏 | RISC-V rvv v0.9 v0.8 草案对比 第十一课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200527-riscv-v-spec0.9%E5%92%8C0.8%E5%AF%B9%E6%AF%94-wangpeng.pdf) | [video](https://www.bilibili.com/video/av413293037/)| N/A |
 | 20200513 | 陆亚涵 | V8测试流程介绍以及指令选择单元测试源码分析 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-V8%E6%B5%8B%E8%AF%95%E6%B5%81%E7%A8%8B%E4%BB%8B%E7%BB%8D%E4%BB%A5%E5%8F%8A%E6%8C%87%E4%BB%A4%E9%80%89%E6%8B%A9%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-luyahan.pptx) | - | N/A |
 | 20200513 | 王鹏 | clang和rvv benchmark 第十课 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200513-clang%E5%92%8Crvv%20benchmark-wangpeng.pdf) | [video](https://www.bilibili.com/video/BV13z4y1d7zK)| N/A |
@@ -114,181 +123,6 @@ https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
 
 报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/docs/Tutorials/Toy/)
 
-
-### 20200527--V8指令选择中的优化-陆亚涵
-报告题目：V8指令选择中的优化
-
-报告时间：20200527
-
-报告人： 陆亚涵
-
-隶属项目： PLCT实验室V8项目
-
-内容简介： V8指令选择中的优化
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-### Dive into V8 Torque-20200527-杨文章
-
-报告题目：Dive into v8 torque
-
-报告时间：20200527
-
-报告人：杨文章
-
-隶属项目：PLCT实验室v8项目
-
-内容简介：v8项目中torque语言的编译器源码分析
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1JK411s7Pv
-
-### 20200527--V8移植简介-邹小芳
-报告题目：V8移植简介
-
-报告时间：20200527
-
-报告人： 邹小芳
-
-隶属项目： PLCT实验室V8项目
-
-内容简介： V8移植简介
-
-幻灯片或资料链接：
-
-https://github.com/amyzxf/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV11K4y1t76G
-
-### 使用OpenROAD构建蜂鸟E203处理器核GDS--20200604--张洪滨
-
-报告题目：使用OpenROAD构建蜂鸟E203处理器核GDS
-
-报告时间：20200604
-
-报告人：张洪滨
-
-隶属项目：国科大高级计算机系统结构课程设计
-
-内容简介：完成蜂鸟E203处理器核从RTL代码到GDS二进制文件的全流程设计
-
-幻灯片或链接资料：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-知乎文章：https://zhuanlan.zhihu.com/p/141713099
-
-B站视频：https://www.bilibili.com/video/BV17C4y1a7Pv
-
-
-### v8中snapshot的代码分析-20200610-杨文章
-
-报告题目：v8中snapshot的代码分析
-
-报告时间：20200610
-
-报告人：杨文章
-
-隶属项目：PLCT实验室v8项目
-
-内容简介：v8项目中mksnapshot的机制分析
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1UV411r7Nq
-
-
-### Spike 代码框架及具体实现分析-20200617-王萌
-
-报告题目：Spike 代码框架及具体实现分析
-
-报告时间：20200617
-
-报告人：王萌
-
-隶属项目：PLCT实验室Spike项目
-
-内容简介：Spike 代码框架及具体实现分析
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1QT4y1J7SJ
-
-### 基于树莓派开发I2C裸机驱动-20200617-汪辰
-
-报告题目：基于树莓派开发I2C裸机驱动
-
-报告时间：20200617
-
-报告人：汪辰
-
-隶属项目/团队：PLCT江浙沪皖小队
-
-内容简介：I2C 总线简介以及介绍如何基于基于树莓派开发 I2C 的裸机驱动。
-
-[幻灯片或资料链接](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20200617-dev-i2c-on-raspi-wangchen.pdf)
-
-[视频或专栏文章链接](https://www.bilibili.com/video/BV16p4y1D77b)
-
-### 20200619-QEMU_BIOS简介-陈嘉炜
-
-报告题目：QEMU_BIOS简介
-
-报告时间：20200619
-
-报告人：陈嘉炜
-
-隶属项目：PLCT实验室qemu项目
-
-内容简介：介绍qemu_bios工具
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1xV411k7mr?from=search&seid=5602113976955164489
-
-
-### Spike-fesvr及外部设备实现分析-20200624-王萌
-
-报告题目：Spike-fesvr及外部设备实现分析
-
-报告时间：20200624
-
-报告人：王萌
-
-隶属项目：PLCT实验室Spike项目
-
-内容简介：Spike-fesvr及外部设备实现分析
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1ET4y1J7As
 
 
 ### Introduction to Chisel/FIRRTL Hardware Compiler Framework - 20200715 - Boyang Han
