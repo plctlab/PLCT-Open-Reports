@@ -48,35 +48,6 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | 20200205 | 张洪滨 | MLIR & python binding简介 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
 
 
-
-
-
-### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
-
-报告题目：TODO
-
-报告时间：TODO
-
-报告人：TODO
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：TODO
-
-幻灯片或资料链接：
-
-TODO LIST 单独一行
-
-视频或专栏文章链接（如果有的话）：
-
-TODO B站链接 / 知乎链接 / 腾讯视频链接
-
-版权、资料来源及致谢备注：
-
-TODO 致谢内容应当放在幻灯片中。
-
-（模版内容结束）
-
 ### MLIR Toy Tutorial 概述-20200226-研究生张洪滨
 
 报告题目：MLIR Toy Tutorial 概述
