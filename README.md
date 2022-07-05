@@ -48,35 +48,6 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | 20200205 | 张洪滨 | MLIR & python binding简介 | 参见文末 `20200205-MLIR` | [video](https://www.bilibili.com/video/av91877563)  |内容参考:[MLIR官方资料](https://mlir.llvm.org/) |
 
 
-
-
-
-### 标题3级索引：玄铁C910初次接触-20200205-实习生陈影
-
-报告题目：TODO
-
-报告时间：TODO
-
-报告人：TODO
-
-隶属项目：PLCT实验室玄铁C910自定义指令LLVM支持
-
-内容简介：TODO
-
-幻灯片或资料链接：
-
-TODO LIST 单独一行
-
-视频或专栏文章链接（如果有的话）：
-
-TODO B站链接 / 知乎链接 / 腾讯视频链接
-
-版权、资料来源及致谢备注：
-
-TODO 致谢内容应当放在幻灯片中。
-
-（模版内容结束）
-
 ### MLIR Toy Tutorial 概述-20200226-研究生张洪滨
 
 报告题目：MLIR Toy Tutorial 概述
@@ -1709,6 +1680,46 @@ https://github.com/plctlab/PLCT-Open-Reports/
 https://blog.jiejiss.com/A-RISC-V-gcc-pitfall-revealed-by-a-glibc-update/
 
 https://www.bilibili.com/video/BV1Vq4y1a7Ny
+
+### 20220511 - Coelacanthus - pkgconfig 的前世今生
+
+报告题目：pkgconfig 的前世今生
+
+报告时间：20220511
+
+报告人：Coelacanthus
+
+隶属项目：Arch Linux 小队
+
+内容简介：pkgconfig 的来源、设计与使用
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1av4y1N7a4
+
+### 20220518 - Coelacanthus - X11 与 Wayland
+
+报告题目：X11 与 Wayland：Linux GUI 的曲折发展史
+
+报告时间：20220518
+
+报告人：Coelacanthus
+
+隶属项目：Arch Linux 小队
+
+内容简介：介绍 Linux 上常见的两种图形系统 X11 和 Wayland 的历史，设计与优劣
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1sS4y187Vr
 
 ### 20200205-MLIR
 
