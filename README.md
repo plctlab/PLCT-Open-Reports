@@ -1220,19 +1220,15 @@ PLCT上海开放日报告
 
 ### 20220119 - LLVM-compiler rt简介 - 刘子康
 
-报告题目：CanoKey 应用、代码与实现
+报告题目：LLVM-compiler rt简介
 
-报告时间：20220112
+报告时间：20220119
 
-报告人：郑鈜壬
+报告人：刘子康
 
-隶属项目：Chisel 小组
+隶属项目：LLVM小队
 
-内容简介：
-
-+ CanoKey 应用与实例
-+ CanoKey 协议栈与代码组织
-+ 讨论：用 RISC-V 实现 CanoKey，需要什么
+内容简介：主要介绍Compiler rt的功能和现状。
 
 幻灯片或资料链接：
 
