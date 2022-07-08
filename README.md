@@ -1243,3 +1243,25 @@ https://github.com/plctlab/PLCT-Open-Reports/20220608-RISC-V%20Vector寄存器�
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1UU4y1R7Ep
+
+### 20220706 - RISC-V 指令集扩展检测机制现状 - 郑鈜壬
+
+报告题目：RISC-V 指令集扩展检测机制现状
+
+报告时间：20220706
+
+报告人：郑鈜壬
+
+隶属项目：Chisel 小组
+
+内容简介：
+
++ 从 misa/mconfigptr 到设备树到内核到用户空间的扩展检测机制介绍
++ Zk 与 Zicsr/Zifencei 的案例分析
+
+幻灯片或资料链接：
+
+[pdf](./20220706-郑鈜壬-discovery.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1a3411c7LY)
+
