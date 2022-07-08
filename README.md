@@ -1223,3 +1223,23 @@ https://github.com/plctlab/PLCT-Open-Reports/
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1TS4y1P7Tv?spm_id_from=333.851.dynamic.content.click
+
+### 20220608-RISC-V Vector寄存器图解-孙少策
+
+报告题目：RISC-V Vector寄存器图解
+
+报告时间：20220608
+
+报告人：孙少策
+
+隶属项目：LLVM小队
+
+内容简介：使用图解的方式，来介绍RVV寄存器相关的一些概念。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/20220608-RISC-V%20Vector寄存器图解-孙少策.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1UU4y1R7Ep
