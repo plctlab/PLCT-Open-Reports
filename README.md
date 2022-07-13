@@ -1074,7 +1074,7 @@ https://github.com/plctlab/PLCT-Open-Reports/
 
 幻灯片或资料链接：
 
-[pdf版本ppt](https://github.com/alexfanqi/PLCT-Open-Reports/blob/master/20220314-LLVM_ORCJIT%E4%BB%8B%E7%BB%8D-alexfan.pdf)
+[pdf版本ppt](./20220314-LLVM_ORCJIT%E4%BB%8B%E7%BB%8D-alexfan.pdf)
 
 视频或专栏文章链接：
 
