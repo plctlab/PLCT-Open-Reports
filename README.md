@@ -1060,6 +1060,25 @@ https://www.bilibili.com/video/BV1GF411v7Ch?spm_id_from=333.999.0.0
 
 https://github.com/plctlab/PLCT-Open-Reports/
 
+### 20220314 - LLVM ORCJIT介绍 - 樊其轩(Alexfanqi)
+
+报告题目：LLVM ORCJIT介绍
+
+报告时间：20220314
+
+报告人：樊其轩
+
+隶属项目：技术分享
+
+内容简介：介绍了JIT原理，LLVM ORCJIT api的设计和简单代码分析。
+
+幻灯片或资料链接：
+
+[pdf版本ppt](https://github.com/alexfanqi/PLCT-Open-Reports/blob/master/20220314-LLVM_ORCJIT%E4%BB%8B%E7%BB%8D-alexfan.pdf)
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV13a41187NM
 
 ### 20220323 - 关于CMake和C++11的学习汇报 - 王壹
 
