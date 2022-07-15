@@ -1060,6 +1060,25 @@ https://www.bilibili.com/video/BV1GF411v7Ch?spm_id_from=333.999.0.0
 
 https://github.com/plctlab/PLCT-Open-Reports/
 
+### 20220314 - LLVM ORCJIT介绍 - 樊其轩(Alexfanqi)
+
+报告题目：LLVM ORCJIT介绍
+
+报告时间：20220314
+
+报告人：樊其轩
+
+隶属项目：技术分享
+
+内容简介：介绍了JIT原理，LLVM ORCJIT api的设计和简单代码分析。
+
+幻灯片或资料链接：
+
+[pdf版本ppt](./20220314-LLVM_ORCJIT%E4%BB%8B%E7%BB%8D-alexfan.pdf)
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV13a41187NM
 
 ### 20220323 - 关于CMake和C++11的学习汇报 - 王壹
 
@@ -1223,3 +1242,45 @@ https://github.com/plctlab/PLCT-Open-Reports/
 视频或专栏文章链接：
 
 https://www.bilibili.com/video/BV1TS4y1P7Tv?spm_id_from=333.851.dynamic.content.click
+
+### 20220608-RISC-V Vector寄存器图解-孙少策
+
+报告题目：RISC-V Vector寄存器图解
+
+报告时间：20220608
+
+报告人：孙少策
+
+隶属项目：LLVM小队
+
+内容简介：使用图解的方式，来介绍RVV寄存器相关的一些概念。
+
+幻灯片或资料链接：
+
+https://github.com/plctlab/PLCT-Open-Reports/20220608-RISC-V%20Vector寄存器图解-孙少策.pdf
+
+视频或专栏文章链接：
+
+https://www.bilibili.com/video/BV1UU4y1R7Ep
+
+### 20220706 - RISC-V 指令集扩展检测机制现状 - 郑鈜壬
+
+报告题目：RISC-V 指令集扩展检测机制现状
+
+报告时间：20220706
+
+报告人：郑鈜壬
+
+隶属项目：Chisel 小组
+
+内容简介：
+
++ 从 misa/mconfigptr 到设备树到内核到用户空间的扩展检测机制介绍
++ Zk 与 Zicsr/Zifencei 的案例分析
+
+幻灯片或资料链接：
+
+[pdf](./20220706-郑鈜壬-discovery.pdf)
+
+[在线视频回放](https://www.bilibili.com/video/BV1a3411c7LY)
+
