@@ -8,6 +8,16 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 |日期|报告人|题目|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 | 
+| 20210129 | 叶泽文 | RISC-V Crypto Extension | - | [video](https://www.bilibili.com/video/BV15X4y1N7t8) | 简单介绍RISC-V K扩展 |
+| 20210127 | 梁斌 | Debugging WebAssembly with modern tools | - | [video](https://www.bilibili.com/video/BV16T4y1P7iJ) | 介绍谷歌目前对WASM的debug方法与改进 |
+| 20210127 | 姜宇辰 | WASM Compilation Pipeline | - | [video](https://www.bilibili.com/video/BV19o4y1R71F) | 介绍V8编译WASM的流程并分析Liftoff编译器源码 |
+| 20210122 | 林思南 | An introduction to RISC-V ABI | [slides](https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210122-an-intro-to-RISCV-ABI-linsinan.pptx) | [video](https://www.bilibili.com/video/BV1bz4y1S71o) | 对RISC-V psABI中的规范进行介绍和分析 |
+| 20210120 | 卢睿博 | Implementation Framework And Present Support Analysis Of Gem5 | [slides](https://github.com/dingiso/PLCT-Open-Reports/blob/master/20210120-Gem5-LuRuibo.pdf) | [video](https://www.bilibili.com/video/BV155411J7gY?from=search&seid=13673609061286525365) | gem5 实现框架分析和对 RISC‐V 支持现状 |
+| 20210113 | 陈小欧 | Comparison Between Csmith and YarpGen | - | [video](https://www.bilibili.com/video/BV1rt4y1z7h4) | 对比随机自动化测试工具Csmith和YARPGen |
+| 20210113 | 梁斌 | How to debug V8 学习报告 | [slides](https://github.com/v8-riscv/v8/wiki/How-to-debug-V8) | [video](https://www.bilibili.com/video/BV1jU4y147eD) | N/A |
+| 20210113 | 邢明杰 | 深度学习DSL简介 | - | [video](https://www.bilibili.com/video/BV1oy4y1H76T) | N/A |
+| 20210113 | 姜宇辰 | A Brief Introduction to WebAssembly & WAMR | - | [video](https://www.bilibili.com/video/BV14f4y1k7ax) | Webassembly介绍和WAMR源码分析 |
+| 20210106 | 乌鑫龙 | Rpitifulvm源码分析 | - | [video](https://www.bilibili.com/video/BV1vp4y1s7fs) | N/A |
 | 20201224 | 陈嘉炜 | RISCV-SIG社区工作进展、Zfinx进展 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/RISCV-SIG%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E8%BF%9B%E5%B1%95%E3%80%81Zfinx%E8%BF%9B%E5%B1%95.pptx) | - | Code Speed SIG项目内容与进展，Codesize Reduction中Zfinx项目工作进展 |
 | 20201218 | 陈嘉炜 | ZFINX GDB Disassembly | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/ZFINX%20GDB%20Disassembly.pptx) | [video](https://www.bilibili.com/video/BV1AT4y1u7ys) | 介绍反汇编的框架，和ZFINX反汇编实现工作的有关类容 |
 | 20201204 | 陈小欧 | LLVM测试框架介绍 | [slides](https://github.com/plctlab/PLCT-Open-Reports/blob/master/20201204-LLVM%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D-%E9%99%88%E5%B0%8F%E6%AC%A7.pdf) | [video](https://www.bilibili.com/video/BV1MK4y1L7jw) | LLVM测试框架介绍以及如何写一个测试用例 |
@@ -121,177 +131,7 @@ https://zhuanlan.zhihu.com/p/108575517https://zhuanlan.zhihu.com/p/104948867)
 版权、资料来源及致谢备注：
 
 报告中内容部分参考自[MLIR官方资料](https://mlir.llvm.org/docs/Tutorials/Toy/)
-### 20210106-pitifulvm-乌鑫龙
 
-报告题目：pitifulvm源码分析
-
-报告时间：20200106
-
-报告人：乌鑫龙
-
-隶属项目：技术报告面试
-
-内容简介：pitifulvm源码分析
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV1vp4y1s7fs
-
-### 20210113-Webassembly简介&WAMR源码分析-姜宇辰
-
-报告题目：A Brief Introduction to WebAssembly & WAMR
-
-报告时间：20200113
-
-报告人：姜宇辰
-
-隶属项目：技术报告面试
-
-内容简介：Webassembly介绍和WAMR源码分析
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV14f4y1k7ax
-
-### 20210113-DeepDSL-xmj
-
-报告题目：深度学习DSL简介
-
-报告时间：20200113
-
-报告人：邢明杰
-
-隶属项目：论文分享
-
-内容简介：深度学习DSL介绍
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV1oy4y1H76T
-
-### 20210113-How to debug V8 学习报告-梁斌
-
-报告题目：How to debug V8 学习报告
-
-报告时间：20200113
-
-报告人：梁斌
-
-隶属项目：技术报告面试
-
-内容简介：How to debug V8 学习报告
-
-幻灯片或资料链接：
-
-https://github.com/v8-riscv/v8/wiki/How-to-debug-V8
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1jU4y147eD
-
-### 20210113-Csmith vs YARPGen-陈小欧
-
-报告题目：Comparison Between Csmith and YarpGen
-
-报告时间：20210113
-
-报告人：陈小欧
-
-隶属项目：RISC-V 「V」向量扩展LLVM实现
-
-内容简介：对比随机自动化测试工具Csmith和YARPGen
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV1rt4y1z7h4
-
-### 20210120-Gem5 And RISC-V Supoort -卢睿博
-
-报告题目：Implementation Framework And Present Support Analysis Of Gem5
-
-报告时间：20210120
-
-报告人：卢睿博
-
-隶属项目：技术报告面试
-
-内容简介：**gem5** 实现框架分析和对 **RISC‐V** 支持现状
-
-幻灯片或资料链接：
-
-https://github.com/dingiso/PLCT-Open-Reports/blob/master/20210120-Gem5-LuRuibo.pdf
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV155411J7gY?from=search&seid=13673609061286525365
-
-### 20210122-RISC-V ABI介绍-林思南
-
-报告题目：An introduction to RISC-V ABI
-
-报告时间：20210122
-
-报告人：林思南
-
-隶属项目：技术报告面试
-
-内容简介：对RISC-V psABI中的规范进行介绍和分析
-
-幻灯片或资料链接：
-
-https://github.com/isrc-cas/PLCT-Open-Reports/blob/master/20210122-an-intro-to-RISCV-ABI-linsinan.pptx
-
-视频或专栏文章链接：
-
-https://www.bilibili.com/video/BV1bz4y1S71o
-
-### 20210127-WebAssembly-Compilation-Pipeline-姜宇辰
-
-报告题目：WASM Compilation Pipeline
-
-报告时间：20210127
-
-报告人：姜宇辰
-
-隶属项目：V8 for RISC-V
-
-内容简介：介绍V8编译WASM的流程并分析Liftoff编译器源码
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV19o4y1R71F
-
-### 20210127-Debugging-WebAssembly-with-modern-tools-梁斌
-
-报告题目：Debugging WebAssembly with modern tools
-
-报告时间：20210127
-
-报告人：梁斌
-
-隶属项目：V8 for RISC-V
-
-内容简介：介绍谷歌目前对WASM的debug方法与改进
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV16T4y1P7iJ
-
-### 20210129-RISC-V-Crypto-Extension-Lucas
-
-报告题目：RISC-V Crypto Extension
-
-报告时间：20210129
-
-报告人：叶泽文（Lucas）
-
-隶属项目：技术报告面试
-
-内容简介：简单介绍RISC-V K扩展
-
-幻灯片或资料链接：
-
-https://www.bilibili.com/video/BV15X4y1N7t8
 
 ### 20210129-RISC-V B扩展(Bitmanip)概述-SiYu Wu
 
