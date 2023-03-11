@@ -8,7 +8,7 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 |日期|报告人|题目|slides|video|备注|
 |----|----|----|----|----|----|
 | date | author | title |[slides]() | [links]()| 请按照时间倒序插入把最新鲜的放在表头 |
-| 20230308 | 于桐 | WebAssembly组件与模块 | [slides](./20230118-ebpf%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.pdf) | [video](https://www.bilibili.com/video/BV1mY4y1y7en) | 介绍 Wasm 组件模型与模块架构及其相关的衍生产物 |
+| 20230308 | 于桐 | WebAssembly组件与模块 | [slides](./20230308-WebAssembly%E7%BB%84%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%9D%97.pdf) | [video](https://www.bilibili.com/video/BV1mY4y1y7en) | 介绍 Wasm 组件模型与模块架构及其相关的衍生产物 |
 | 20230308 | 龙英池 | 现代体系结构自动向量化方法 | [slides](https://github.com/inclyc/auto-vec-for-modern/) | [video](https://www.bilibili.com/video/BV1ZM4y1k7NV/) | N/A |
 | 20230119 | 于桐 | eBPF简介与开发框架 | [slides](./20230118-ebpf%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6.pdf) | [video](https://www.bilibili.com/video/BV1NM411t7Z4/) | 简要介绍eBPF及其常用的开发手段和框架 |
 | 20220119 | 刘子康 | LLVM-compiler rt简介 | [slides](./20220119-%E5%88%98%E5%AD%90%E5%BA%B7-LLVM-rt%E7%AE%80%E4%BB%8B.pdf) | [video](https://www.bilibili.com/video/BV1yq4y1k7b8?vd_source=8c7f6e11e4f91463bf7e19aa88ce8a2a) | 主要介绍Compiler rt的功能和现状 |
