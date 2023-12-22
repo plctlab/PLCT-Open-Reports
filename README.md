@@ -18,6 +18,7 @@ PLCT实验室的公开演讲，或者决定公开的组内报告
 | 20211224 | 杨帆 | Cache-Coherence-in-Gem5 | [slides](slides/20211224-%E6%9D%A8%E5%B8%86-CC-in-gem5.pdf) | [video](https://www.bilibili.com/video/BV1NS4y1M7Je) | 介绍了gem5中一个经典的缓存一致性系统例子，“classic cache”设计中的问题，ruby介绍 |
 | 20211222 | 乌鑫龙 | GP Relaxation in LLD | [slides](slides/20211222-%E4%B9%8C%E9%91%AB%E9%BE%99-GP-Relaxation-in-LLD.pdf) | [video](https://www.bilibili.com/video/BV1gi4y1R7W5) | 介绍RISCV中GP relaxation的基本原理，实现一个简单的GP relaxation的指令优化 |
 | 20211218 | 汪辰 | OSDT2021 AOSP for RISC-V 社区开源进展报告 | [slides](slides/20211218-osdt2021-aosp-rv-wangchen.pdf) | [video](https://www.bilibili.com/video/BV1Sg411w7Le) | AOSP for RISC-V 社区开源进展报告 |
+| 20211211 | 罗云千 | RISC-V向量指令集初探 | [slides](slides/20211211-rvv.pdf) | [video](https://www.bilibili.com/video/BV1Zg411w7H2) | 介绍 RISC-V Vector 扩展的指令设计 |
 | 20211208 | 史历 | Register Allocation in LLVM | [slides](slides/20211208-%E5%8F%B2%E5%8E%86-Register-Allocation-in-LLVM.pdf) | [video](https://www.bilibili.com/video/BV1pF411z7Ry) | WLLVM 后端寄存器分配算法及其实现（Basic 与 Greedy 寄存器分配器) |
 | 20211024 | 汪辰，陆旭凡 | 2021 AOSP RISC-V 社区开源进展报告(OSDT Meetup) | [slides1](./20211024-aosp-rv-community-status-report-wangchen.pdf) [slides2](./20211024-aosp-riscv-toolchain-luxufan.pdf) | [video](https://www.bilibili.com/video/BV1QF411e7sZ) | Wallace 乘法乘法器的原理以及如何使用 Booth Recoding 加速 Wallace 乘法器 |
 | 20211025 | 张洪滨 | MLIR 的简介、实践、思考 | [slides](slides/20211025-MLIR%E7%9A%84%E7%AE%80%E4%BB%8B-%E5%AE%9E%E8%B7%B5-%E6%80%9D%E8%80%83-zhanghongbin.pdf) | - | N/A |
